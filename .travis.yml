@@ -1,9 +1,9 @@
 env:
   matrix:
-    - export GOPATH=$HOME/go
-  intall:
-    - go get -v github.com/spf13/hugog
-branches:
-  only:
-    - master
-script: ./scripts/build.sh 
+  - GOPATH=$TRAVIS_BUILD_DIR/gosrc
+install:
+- mkdir -p "$TRAVIS_BUILD_DIR/gosrc"
+- mkdir -p "$TRAVIS_BUILD_DIR/static"
+- curl -s https://www.parse.com/downloads/cloud_code/installer.sh | sudo /bin/bash
+- go get -v github.com/spf13/hugo
+script: ./scripts/build.sh
