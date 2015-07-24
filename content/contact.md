@@ -1,6 +1,5 @@
 +++
 date = "2015-07-21T03:22:46-03:00"
-draft = true
 menu = "main"
 weight = -170
 type = "contact"
