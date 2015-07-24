@@ -1,9 +1,12 @@
 env:
   matrix:
   - GOPATH=$TRAVIS_BUILD_DIR/gosrc
+  global:
+    - GH_REF: github.com/oikon/autoconexao.git
+    - secure: PRDjjlG41uszlPHIo9USkVLKmZj1udew77DgTmjIE5QSjHCe/bGEP3VhZ4t54sGmdzukUbK5lULCKdzYydrC//IMG4BbtiKxyjsdmK9fl2S7Ow3z9FwIDKW5xx9bS9NlizHOtJBI8LzGo76dGjJZ5JCrOAKqCZaG3uy47J5W0eHozKPkxahd4E3gJdK3n6vu6TqHn1fbBuK/exIRXV/S16wPkEkUCKTAyjGpzh7hwo9UkBliYqoYbt1Pr9zyS96wpobUPfLjN8z2uSl2Ixlb31C6xGEo6Qp0osuOR3230Of0vHMCSIkN2citGOBrugtXNvb5sxC8YcZ45rHP7b9y5sfGPy1a244lP29N9r9M8v/DeAQ7x/yqLTkiTdyoLzt2nuh6vpeP+rqM3yk+NueeEbGdbYVhnh6J4e6NwTCDewQhhgLAB6vfvMI0h5UL4Yg9zq5gwdIhJBYZ/XIBFhsV4RoJD9kH37trnHTNiLSpENnW+tYqoTewEpvdUiqwQQd8llY43e2ac2hgtX9dFzvWpd7urGqvQ1XZXim6AQUE3jc3sBx6mMxhaS5lWv4hrecGnx4VilXAbunUxsrfm63s0pemu7jBRoWOiSaAcpdR2AwHoAFHO2euL9JHnMh+70VAeuLBhG6wkY2uRDWgfib2iUAKEJq2k++a4Ug2ZULLW5M=
 install:
 - mkdir -p "$TRAVIS_BUILD_DIR/gosrc"
 - mkdir -p "$TRAVIS_BUILD_DIR/static"
 - curl -s https://www.parse.com/downloads/cloud_code/installer.sh | sudo /bin/bash
 - go get -v github.com/spf13/hugo
-script: ./scripts/build.sh
+script: ./scripts/deploy.sh
