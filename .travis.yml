@@ -1,5 +1,6 @@
-intall:
-  - go get -v github.com/spf13/hugo
+before_intall:
+  - brew update
+  - brew install hugo
 branches:
   only:
     - master
