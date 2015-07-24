@@ -1,8 +1,8 @@
 env:
   matrix:
-    - GOPATH=$TRAVIS_BUILD_DIR/gosrc
+    - export GOPATH=$HOME/go
   intall:
-    - go get -v github.com/spf13/hugo
+    - go get -v github.com/spf13/hugog
 branches:
   only:
     - master
