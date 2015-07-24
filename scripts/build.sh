@@ -1,3 +1,3 @@
 #!/bin/bash -e
-$GOPATH/bin/hugo --theme=purehugo
+$GOPATH/bin/hugo
 ls -l public/
