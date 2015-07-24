@@ -1,7 +1,9 @@
-sudo: true
-before_intall:
-  - wget https://github.com/spf13/hugo/releases/download/v0.14/hugo_0.14_i386.deb
-  - sudo dpkg -i hugo_0.14_i386.deb
+language: go
+env:
+  matrix:
+    - GOPATH=$TRAVIS_BUILD_DIR/gosrc
+  intall:
+    - go get -v github.com/spf13/hugo
 branches:
   only:
     - master
