@@ -1,9 +1,7 @@
-matrix:
-  include:
-    - os: osx
+sudo: true
 before_intall:
-  - wget brew update
-  - brew install hugo
+  - wget https://github.com/spf13/hugo/releases/download/v0.14/hugo_0.14_i386.deb
+  - sudo dpkg -i hugo_0.14_i386.deb
 branches:
   only:
     - master
