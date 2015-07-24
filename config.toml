@@ -1,0 +1,44 @@
+baseurl = "http://blog.autoconexao.org.br"
+title = "Autoconexão"
+canonifyurls = true
+paginate = 10
+theme = "startbootstrap-clean-blog"
+languageCode = "pt-br"
+copyright = "Oikon – Instituto de Pesquisa e Desenvolvimento Humano © 2015 All Rights Reserved"
+
+disqusShortname = "autoconexao"
+
+[author]
+  name = "Instituto Oikon"
+
+[params]
+  DateForm = "02/01/2006"
+  Description = "Educar educando-se com Autoconhecimento"
+  Author = "Instituto Oikon"
+  email = "contato@autoconexao.org.br"
+  Ganalytics = "XX-00000000-0"
+
+[taxonomies]
+  author = "authors"
+  serie = "series"
+  tag = "tags"
+  category = "categories"
+
+[[params.social]]
+  title = "twitter"
+  url = "https://twitter.com/oikon"
+[[params.social]]
+  title = "github"
+  url = "https://github.com/oikon"
+[[params.social]]
+  title = "facebook"
+  url = "https://www.facebook.com/InstitutoOikon"
+
+[[menu.main]]
+  name = "home"
+  url = "/"
+  weight = -200
+[[menu.main]]
+  name = "Arquivo"
+  url = "/post/"
+  weight = -180

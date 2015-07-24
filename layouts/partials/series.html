@@ -1,0 +1,1 @@
+Série {{ range $index, $element := .Params.series }}{{if $index}}, {{end}}<a href="/series/{{ urlize . }}" >{{ title . }}</a>{{ end }}

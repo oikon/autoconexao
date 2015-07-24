@@ -1,0 +1,1 @@
+Escrito por {{ range $index, $element := .Params.authors }}{{if $index}}, {{end}}<a href="/authors/{{ urlize . }}" >{{ title . }}</a>{{ end }}
