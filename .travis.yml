@@ -1,7 +1,8 @@
-os:
-  - osx
+matrix:
+  include:
+    - os: osx
 before_intall:
-  - brew update
+  - wget brew update
   - brew install hugo
 branches:
   only:
