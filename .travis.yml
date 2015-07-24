@@ -1,0 +1,7 @@
+language: go
+intall:
+  - go get -v github.com/spf13/hugo
+branches:
+  only:
+    - master
+script: ./scripts/build.sh 
