@@ -1,3 +1,5 @@
+os:
+  - osx
 before_intall:
   - brew update
   - brew install hugo
