@@ -15,6 +15,7 @@ deploy:
   access_key_id: AKIAICEXZH3PUZE3V2OA
   secret_access_key:
     secure: nr2DyEdmhTPtzZf0jjzGomXOGjd82aWw5nhB65uVvQ+dJIG9hMYEgCIRipet15k+nuVVMqgqKeHqujuxb6NXwon7xRkbAfKP2qXSUVY+PnmVVf7PCgcWHMchSalYra3eGVRcGYpjYMDM9ofjLjV54+nvChDwwyD6DvKR3KkLJY+sbvz8WhlEgOMkmAQMZvQtOYZAWCC/q/EkCM75UT2fEL6T4l1c+jK3PyiPY2wRWhpKdpjEiyo07qHE/cwPvWNycGLCRI3ZncRSvJ2MUOdElZIGG13Xt2ezrJVfvRPnvv9IpGkMBXrk2ePTwiLV/pW88uXZwrH9cWAlORIYlJOu/jPgRzX1TEapBi5MwOzY0rxsC//bvslr4Wf08LRq4Q3vN8e2+9plaRPNRsvHUqucaT6pR3YLCEYcElOiih1IEOnbELxA+TRI1g7j50A+0BNVOABme2aZlE4snqqsbAu9Qajw7PcTliLaeY0MWCK6tYBErlMUnSnc3ud1pQ/d9RvhhRPCnKKG4oG337HyKZV1ATij8qNV+GLhgGp4betsj8WQTRQgg4nEXCvdDcg/w7fgOo+fKC0f4Yw7i19B/FeKtsXBtBiFF9RSGjEMn7T0sD8yoXU/5hvFxnnlNrh5X/tsyt7+8R85saK20VmUpmxrD89C5cPD2Ng0fOW+Q9ESHWw=
+  region: sa-east-1
   bucket: blog.autoconexao.org.br
   skip_cleanup: true
   endpoint: blog.autoconexao.org.br.s3-website-sa-east-1.amazonaws.com
