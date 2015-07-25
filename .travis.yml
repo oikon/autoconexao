@@ -19,6 +19,5 @@ deploy:
   skip_cleanup: true
   endpoint: blog.autoconexao.org.br.s3-website-sa-east-1.amazonaws.com
   local-dir: public
-  acl: bucket_owner_full_control
   on:
     repo: oikon/autoconexao
