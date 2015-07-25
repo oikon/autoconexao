@@ -1,4 +1,4 @@
-baseurl = "http://oikon.github.io/autoconexao/"
+baseurl = "http://blog.autoconexao.org.br"
 title = "Autoconexão"
 canonifyurls = true
 paginate = 10
