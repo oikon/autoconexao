@@ -13,6 +13,4 @@ title = "Primeiro Post"
 
 # Título de primeiro post
 
-Aqui vai o corpo do primeiro post. Basta escrever, não é necessário fazer nada de especial. Se quiser fazer uma palavra ou frase virar itálico, basta colocá-la entre estrelas. Por exemplo, *essa frase está em itálico*
-
-Para negrito, basta colocar duas. **Essa frase está em negrito**.
+Texto do primeiro post.
