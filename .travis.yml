@@ -22,3 +22,6 @@ deploy:
   local-dir: public
   on:
     repo: oikon/autoconexao
+notifications:
+  email:
+    - tech@oikon.org.br
