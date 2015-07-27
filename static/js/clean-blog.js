@@ -26,7 +26,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://formspree.io/comunicacao@oikon.org.br",
+                url: "https://formspree.io/contato@autoconexao.org.br",
                 method: "POST",
                 data: {
                     name: name,
