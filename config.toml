@@ -16,7 +16,7 @@ disqusShortname = "autoconexao"
   Description = "Educar educando-se com Autoconhecimento"
   Author = "Instituto Oikon"
   email = "contato@autoconexao.org.br"
-  Ganalytics = "XX-00000000-0"
+  Ganalytics = "UA-65639209-1"
 
 [taxonomies]
   author = "authors"
