@@ -1,0 +1,83 @@
+.navbar-autoconexao {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 3;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin-bottom: 0px;
+}
+.navbar-autoconexao  .navbar-brand {
+    font-weight: 800;
+}
+.navbar-autoconexao .nav li a {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+@media only screen and (min-width:768px) {
+    .navbar-autoconexao {
+    background: 0 0;
+    border-bottom: 1px solid transparent;
+}
+.navbar-autoconexao .navbar-brand {
+    color: #fff;
+    padding: 5px 20px 5px 20px;
+}
+
+.navbar-autoconexao .navbar-brand img {
+  max-height: 55px;
+}
+
+.navbar-autoconexao .navbar-brand:hover, .navbar-autoconexao .navbar-brand:focus {
+    /*color: rgba(255, 255, 255, .8);*/
+}
+.navbar-autoconexao .nav li a {
+    /*color: #fff;*/
+    padding: 20px;
+}
+.navbar-autoconexao .nav li a:hover, .navbar-autoconexao .nav li a:focus {
+    /*color: rgba(255, 255, 255, .8);*/
+}
+}@media only screen and (min-width:1170px) {
+    .navbar-autoconexao {
+    -webkit-transition: background-color .3s;
+    -moz-transition: background-color .3s;
+    transition: background-color .3s;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+.navbar-autoconexao.is-fixed {
+    position: fixed;
+    top: -61px;
+    background-color: rgba(255, 255, 255, .9);
+    border-bottom: 1px solid #f2f2f2;
+    -webkit-transition: -webkit-transform .3s;
+    -moz-transition: -moz-transform .3s;
+    transition: transform .3s;
+}
+.navbar-autoconexao.is-fixed .navbar-brand {
+    color: #404040;
+}
+.navbar-autoconexao.is-fixed .navbar-brand:hover, .navbar-autoconexao.is-fixed .navbar-brand:focus {
+    color: #0085a1;
+}
+.navbar-autoconexao.is-fixed .nav li a {
+    color: #404040;
+}
+.navbar-autoconexao.is-fixed .nav li a:hover, .navbar-autoconexao.is-fixed .nav li a:focus {
+    color: #0085a1;
+}
+.navbar-autoconexao.is-visible {
+    -webkit-transform: translate3d(0, 100%, 0);
+    -moz-transform: translate3d(0, 100%, 0);
+    -ms-transform: translate3d(0, 100%, 0);
+    -o-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+}
