@@ -81,3 +81,15 @@
     -o-transform: translate3d(0, 100%, 0);
     transform: translate3d(0, 100%, 0);
 }
+
+.post-heading-blue h1, .post-heading-blue .subheading, .post-heading-blue .meta {
+  padding: 10px;
+  background: rgb(000, 085, 161); /* Fallback for older browsers without RGBA-support */
+  background: rgba(000, 085, 161, 0.6);
+}
+
+.post-heading-gray h1, .post-heading-gray .subheading, .post-heading-gray .meta {
+  padding: 10px;
+  background: rgb(104, 104, 104); /* Fallback for older browsers without RGBA-support */
+  background: rgba(104, 104, 104, 0.8);
+}
