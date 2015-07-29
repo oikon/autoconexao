@@ -6,9 +6,9 @@ description = "Lugar de criança é na aula da Yoga!"
 draft = true
 image = "/img/2015/08/2015-08-11-yoga.jpg"
 series = []
-tags = ["alimentação"]
+tags = ["yoga"]
 title = "Lugar de criança é na aula de Yoga!"
-HeaderBackground = "blue"
+  HeaderBackground = "blue"
 
 +++
 
