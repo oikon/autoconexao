@@ -8,4 +8,4 @@ type = "about"
 
 +++
 
-# Instituto Oikon
+# Plataforma autoconexão
