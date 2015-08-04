@@ -12,7 +12,10 @@ type = "about"
 
 Somos um grupo de profissionais voluntários, médicos, psicólogos, filósofos que estudam, praticam e acima de tudo acreditam no potencial e na capacidade de transformação do ser humano através do autoconhecimento e não somam esforços para dar continuidade a esse trabalho.
 
-Nossa caminhada na ciência do autoconhecimento fez surgir a Plataforma Autoconexão, um meio moderno para difundir todo o conteúdo e ferramentas práticas já tão utilizados no Instituto Oikon e na Pedagogia Conectiva que guia o trabalho na Fundação Eufraten em seus projetos socioeducativos com crianças, adolescentes e grupo familiar através da arte, esporte e cultura, meditação e Yoga.
+Nossa caminhada na ciência do autoconhecimento fez surgir a Plataforma Autoconexão, um meio moderno para difundir todo o conteúdo e ferramentas práticas já tão utilizados no [Instituto Oikon][9fca1c33] e na Pedagogia Conectiva que guia o trabalho na [Fundação Eufraten][dc6f3a22] em seus projetos socioeducativos com crianças, adolescentes e grupo familiar através da arte, esporte e cultura, meditação e Yoga.
+
+  [9fca1c33]: http://www.oikon.org.br/ "Instituto Oikon"
+  [dc6f3a22]: http://eufraten.org.br/ "Fundação Eufraten"
 
 Entendemos que mais do que cursos online, somos uma plataforma acessível a todos interessados numa mudança de comportamento, e o blog faz parte deste universo de soluções.
 
