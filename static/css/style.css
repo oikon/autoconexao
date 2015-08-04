@@ -82,6 +82,10 @@
     transform: translate3d(0, 100%, 0);
 }
 
+.navbar-autoconexao .container-fluid {
+  padding: 10px;
+}
+
 .post-heading-blue h1, .post-heading-blue .subheading, .post-heading-blue .meta {
   padding: 10px;
   background: rgb(000, 085, 161); /* Fallback for older browsers without RGBA-support */
