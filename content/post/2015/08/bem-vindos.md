@@ -1,6 +1,6 @@
 +++
 authors = ["Natália Tavares"]
-categories = ["Dicas", "Meditação"]
+categories = ["Autoconhecimento"]
 date = "2015-08-15T00:00:01-03:00"
 description = "Sejam Bem Vindos!"
 image = "/img/2015/08/Comendador-Paulo-Zabeu-com-jovens.jpg"
