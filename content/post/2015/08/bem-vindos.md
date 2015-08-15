@@ -1,8 +1,8 @@
 +++
-authors = ["Natália Tavares"]
+authors = ["Equipe Autoconexão"]
 categories = ["Autoconhecimento"]
 date = "2015-08-15T00:00:01-03:00"
-description = "Sejam Bem Vindos!"
+description = "Mensagem aos jovens"
 image = "/img/2015/08/Comendador-Paulo-Zabeu-com-jovens.jpg"
 series = []
 tags = ["reflexão"]
@@ -10,8 +10,6 @@ title = "Sejam Bem Vindos!"
   HeaderBackground = "blue"
 
 +++
-
-# Sejam Bem Vindos!
 
 Não é novidade para ninguém que a vida anda cada vez mais complicada e atribulada. A correria do dia a dia vai tomando conta e quando vemos já não temos mais controle de nossas atitudes e emoções; vamos nos deixando levar pelo movimento da vida e caímos no automático.
 
@@ -29,9 +27,6 @@ Para abrir o blog, vamos compartilhar um discurso que nosso fundador deu ao ser 
 O texto foi destinado aos jovens atendidos pela Fundação Eufraten que estavam presentes no evento, mas cabe perfeitamente para mim e para você.
 
 Boa leitura!
-
-
-
 
 
 > Boa noite às autoridades,  senhoras, senhores e amigos,
@@ -64,6 +59,6 @@ Boa leitura!
 >
 > Amo vocês,
 > Obrigado a todos e boa noite!
-
-
-![Comendador Paulo Zabeu](/images/2015/08/Comendador-Paulo-Zabeu.jpg)
+>
+>
+> <footer class="pull-right">Comendador Paulo Zabeu</p><img class="img-responsive" src="/img/2015/08/Comendador-Paulo-Zabeu.jpg" alt="Comendador Paulo Zabeu" style="width:300px;" /></footer>
