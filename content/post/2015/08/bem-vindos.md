@@ -7,7 +7,7 @@ image = "/img/2015/08/Comendador-Paulo-Zabeu-com-jovens.jpg"
 series = []
 tags = ["reflexão"]
 title = "Sejam Bem Vindos!"
-  HeaderBackground = "blue"
+HeaderBackground = "blue"
 
 +++
 

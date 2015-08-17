@@ -5,7 +5,7 @@ paginate = 10
 theme = "startbootstrap-clean-blog"
 languageCode = "pt-br"
 copyright = "Oikon – Instituto de Pesquisa e Desenvolvimento Humano © 2015 All Rights Reserved"
-
+DateForm = "02/01/2006"
 disqusShortname = "autoconexao"
 
 [author]
