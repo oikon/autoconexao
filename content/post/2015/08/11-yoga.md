@@ -3,7 +3,6 @@ authors = ["Mariana Martines"]
 categories = ["Yoga", "Pedagogia"]
 date = "2015-08-11T00:00:01-03:00"
 description = "Lugar de criança é na aula da Yoga!"
-draft = true
 image = "/img/2015/08/2015-08-11-yoga.jpg"
 series = []
 tags = ["yoga"]
