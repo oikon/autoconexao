@@ -3,7 +3,6 @@ authors = ["Maurisa Felício CAstilho"]
 categories = ["Arte e Cultura"]
 date = "2015-08-28T00:00:01-03:00"
 description = "A importância do trabalho voluntário na terceira ou melhor idade"
-draft = true
 image = "img/2015/08/voluntaria-maurisa-fransisco-morato.jpg"
 series = []
 tags = ["autoconhecimento", "terceira idade"]
