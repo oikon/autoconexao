@@ -11,7 +11,7 @@ title = "Será que já temos o substituto do capitalismo?"
 
 +++
 
-# Uma nova porposta de vida! Você está pronto?
+# Uma nova proposta de vida! Você está pronto?
 
 Se a proposta é falarmos de Mudança de Comportamento não temos nada mais inusitado que uma mudança no sistema econômico! O futurólogo americano Jeremy Rifkin, autor do livro ["Sociedade com custo Marginal zero"][e371e1ba], fala um pouco sobre a nova tendência de economia Mundial: a do compartilhamento!
 
