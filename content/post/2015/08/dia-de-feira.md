@@ -3,7 +3,6 @@ authors = ["Mayara Carvalho"]
 categories = ["Dicas"]
 date = "2015-08-30T00:00:01-03:00"
 description = "Dia de ir à feira!"
-draft = true
 image = "img/2015/08/vegetais.jpg"
 series = ["Alimentação Saudável"]
 tags = ["Consumo consciente", "feiras organicas"]
