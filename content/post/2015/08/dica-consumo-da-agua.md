@@ -3,7 +3,6 @@ authors = ["Instituto Oikon"]
 categories = ["Dicas"]
 date = "2015-08-29T00:00:01-03:00"
 description = "que existe uma maneira simples de ajudar o planeta?"
-draft = true
 image = "img/2015/08/planeta-terra.jpg"
 series = []
 tags = ["Consumo consciente"]
