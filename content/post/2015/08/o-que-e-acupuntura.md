@@ -1,7 +1,7 @@
 +++
 authors = ["Tiago Mulato"]
 categories = ["Saúde e Esporte"]
-date = "2015-08-31T00:00:01-03:00"
+date = "2015-08-31"
 description = "Você já ouviu falar?"
 image = "img/2015/08/acupuntura.jpg"
 series = [""]
