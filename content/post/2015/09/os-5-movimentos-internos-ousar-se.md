@@ -5,7 +5,6 @@ date = "2015-09-01T00:05:10-03:00"
 description = "Ousar-se"
 draft = true
 image = "/img/post-bg.jpg"
-series = []
 tags = ["autoconhecimento"]
 title = "Os 5 movimentos internos"
   HeaderBackground = "blue"
