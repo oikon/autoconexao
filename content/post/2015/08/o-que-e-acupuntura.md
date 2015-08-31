@@ -4,7 +4,6 @@ categories = ["Saúde e Esporte"]
 date = "2015-08-31"
 description = "Você já ouviu falar?"
 image = "img/2015/08/acupuntura.jpg"
-series = [""]
 tags = ["bem estar"]
 title = "O que é acupuntura?"
   HeaderBackground = "blue"

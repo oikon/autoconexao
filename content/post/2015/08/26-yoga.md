@@ -4,7 +4,6 @@ categories = ["Yoga", "Pedagogia"]
 date = "2015-08-26T00:00:01-03:00"
 description = "Lugar de criança é na aula da Yoga!"
 image = "img/2015/08/2015-08-26-yoga.jpg"
-series = []
 tags = ["yoga"]
 title = "Lugar de criança é na aula de Yoga!"
   HeaderBackground = "blue"

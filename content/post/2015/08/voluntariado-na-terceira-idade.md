@@ -4,7 +4,6 @@ categories = ["Arte e Cultura"]
 date = "2015-08-28T00:00:01-03:00"
 description = "A importância do trabalho voluntário na terceira ou melhor idade"
 image = "img/2015/08/voluntaria-maurisa-fransisco-morato.jpg"
-series = []
 tags = ["autoconhecimento", "terceira idade"]
 title = "A importância do trabalho voluntário na terceira ou melhor idade"
   HeaderBackground = "blue"
