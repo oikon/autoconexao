@@ -2,16 +2,16 @@
 authors = ["Instituto Oikon"]
 categories = ["Meditação Conectiva"]
 date = "2015-09-01T00:00:01-03:00"
-description = "Ousar-se"
+description = "Os 5 movimentos internos"
 draft = true
 image = "/img/post-bg.jpg"
 tags = ["autoconhecimento"]
-title = "Os 5 movimentos internos"
+title = "Está na hora de ousar!"
   HeaderBackground = "blue"
 
 +++
 
-Boa tarde Pessoal,
+Olá Pessoal,
 
 
 Não é mais segredo para ninguém os benefícios da meditação e também como o autoconhecimento é uma ferramenta poderosa para nos desenvolvermos tanto na área profissional como pessoal.
@@ -29,7 +29,7 @@ Dentro do processo de autoconhecimento temos um estágio de desenvolvimento do s
 - Retomar-se de Alpha a Ômega.
 
 
-A prática desses movimentos tira o ser dos desequilíbrios emocionais, eliminando o sofrimento, levando-o à liberdade da conciência.
+A prática desses movimentos tira o ser dos desequilíbrios emocionais, eliminando o sofrimento, levando-o à liberdade da conciência. É isso mesmo, ousar com planejamento traz equilibrio emocional!
 
 Ousar-se requer reinvensão, inovação, e expansão dos nossos movimentos internos e externos.
 
@@ -38,9 +38,11 @@ Quer saber como se reinventar e ser uma pessoa mais produtiva?
 
 Venha participar conosco!
 
-Onde?
-Instituto Oikon
-R. Nuno Álvares Pereira 72
-Vila Nogueira – Campinas/SP
+**Onde?**
+
+**Instituto Oikon**
+R. Nuno Álvares Pereira, 72 | Vila Nogueira – Campinas/SP
+
+
 (19) 3256.0339
 (19) 3307.7735

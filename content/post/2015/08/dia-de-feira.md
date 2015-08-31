@@ -5,7 +5,7 @@ date = "2015-08-30T00:00:01-03:00"
 description = "Dia de ir à feira!"
 image = "img/2015/08/vegetais.jpg"
 series = ["Alimentação Saudável"]
-tags = ["Consumo consciente", "feiras organicas"]
+tags = ["Consumo consciente", "feiras orgânicas"]
 title = "Que dia é hoje?"
   HeaderBackground = "blue"
 
