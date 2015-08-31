@@ -1,7 +1,7 @@
 +++
 authors = ["Instituto Oikon"]
 categories = ["Meditação Conectiva"]
-date = "2015-09-01T00:05:10-03:00"
+date = "2015-09-01T00:00:01-03:00"
 description = "Ousar-se"
 draft = true
 image = "/img/post-bg.jpg"
