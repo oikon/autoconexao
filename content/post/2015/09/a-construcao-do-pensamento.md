@@ -1,7 +1,7 @@
 +++
 authors = ["Dra. Paula Andréa Sousa Ramos"]
 categories = ["autoconhecimento"]
-date = "2015-09-02"
+date = "2015-09-01T00:00:00-05:00"
 description = "Reconstruindo o pensar"
 image = "img/2015/09/o-pensar.jpg"
 tags = ["pensamento", "psicologia"]
