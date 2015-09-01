@@ -3,7 +3,6 @@ authors = ["Instituto Oikon"]
 categories = ["Meditação Conectiva"]
 date = "2015-09-01T00:00:01-03:00"
 description = "Os 5 movimentos internos"
-draft = true
 image = "/img/post-bg.jpg"
 tags = ["autoconhecimento"]
 title = "Está na hora de ousar!"
