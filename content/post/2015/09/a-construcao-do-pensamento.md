@@ -1,13 +1,12 @@
 +++
 authors = ["Dra. Paula Andréa Sousa Ramos"]
 categories = ["autoconhecimento"]
-date = "2015-09-02T00:00:01-03:00"
+date = "2015-09-02"
 description = "Reconstruindo o pensar"
 image = "img/2015/09/o-pensar.jpg"
 tags = ["pensamento", "psicologia"]
 title = "Penso, logo desisto!"
-  HeaderBackground = "blue"
-
+HeaderBackground = "blue"
 +++
 
 Parafraseando a famosa frase de René Descartes, um grande filósofo e matemático do século XVI,  “Penso, logo existo”; ousamos dizer que nos dias de hoje: **Penso, logo desisto!**
