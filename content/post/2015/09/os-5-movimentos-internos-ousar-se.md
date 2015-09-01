@@ -39,9 +39,9 @@ Venha participar conosco!
 
 **Onde?**
 
-**Instituto Oikon**
-R. Nuno Álvares Pereira, 72 | Vila Nogueira – Campinas/SP
-
-
-(19) 3256.0339
-(19) 3307.7735
+<address>
+  <strong>Instituto Oikon</strong><br>
+  R. Nuno Álvares Pereira, 72<br>
+  Vila Nogueira – Campinas/SP<br>
+  <abbr title="Phone">Tel:</abbr> (19) 3256.0339
+</address>
