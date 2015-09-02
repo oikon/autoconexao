@@ -23,7 +23,7 @@ preparando para ser um profissional de sucesso?
 Todas essas perguntas são importantes, e algumas dessas ações talvez até possam
 contribuir ao seu filho um bom futuro, mas será que só elas bastam?
 
-Você sabe quais são os dois medicamentos mais vendidos nos dias de hoje? Sãos os
+Você sabe quais são os dois medicamentos mais vendidos nos dias de hoje? São os
 ansiolíticos e antidepressivos, o que será que esse dado pode nos mostrar?
 Talvez esse seja apenas um dos indicativos de que somente uma boa educação
 escolar, domínio de várias línguas e desenvolvimento de múltiplas habilidades
