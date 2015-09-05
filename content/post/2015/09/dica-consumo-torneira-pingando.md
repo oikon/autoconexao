@@ -2,11 +2,11 @@
 authors = ["Instituto Oikon"]
 categories = ["Dicas"]
 date = "2015-09-05T00:00:01-03:00"
-description = "o prejuizo de uma torneira pingando?"
+description = "do prejuizo de uma torneira pingando?"
 image = "img/2015/09/dica-de-consumo-agua.jpg"
 series = ["Dicas de Consumo"]
 tags = ["Consumo consciente"]
-title = "Você sabia..."
+title = "Você tem ideia..."
   HeaderBackground = "blue"
 
 +++
