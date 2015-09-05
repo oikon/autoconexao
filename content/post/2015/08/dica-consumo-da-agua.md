@@ -15,7 +15,7 @@ Se todos os brasileiros escovassem os dentes de torneira fechada iriamos economi
 
 Faça sua parte!
 
-![Cataratas do Iguaçu](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2015/08/cataratas-do-iguac%CC%A7u.jpg)
+![Cataratas do Iguaçu](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2015/08/cataratas-do-iguacu.jpg)
 
 
 
