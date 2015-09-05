@@ -21,4 +21,8 @@ Para você ter uma ideia do disperdício, a imagem abaixo é de uma piscina de 1
 Faça sua parte, arrume todos os vazamentos da sua casa!
 
 
+Se fizermos uma analogia bem simples, entenderemos a importância de cuidar das pequenas coisas do dia a dia! ;)
+
+
+
 ##### [fonte da dica ONG AKATU](http://www.akatu.org.br/Dicas)
