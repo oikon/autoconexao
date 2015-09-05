@@ -11,12 +11,14 @@ title = "Você sabia..."
 
 +++
 
-Que uma torneira pingando durante um ano custa aproximadamente R$1.200,00 em sua conta de água? O volume de agua tratada equivale a 16 mil litros.
+Que uma torneira pingando durante um ano custa aproximadamente R$1.200,00 em sua conta de água? O volume de água tratada equivale a 16 mil litros.
 
-Faça sua parte!
+Para você ter uma ideia do disperdício, a imagem abaixo é de uma piscina de 16,6 mil litros de água!
 
-![Pscina 16,6 mil litros de água](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2015/09/cataratas-do-iguac%CC%A7u.jpg)
 
+![Pscina 16,6 mil litros de água](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2015/09/pscina-16600-litros.jpg)
+
+Faça sua parte, arrume todos os vazamentos da sua casa!
 
 
 ##### [fonte da dica ONG AKATU](http://www.akatu.org.br/Dicas)
