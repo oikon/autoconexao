@@ -2,12 +2,10 @@
 authors = ["Instituto Oikon"]
 categories = ["Meditação Conectiva"]
 date = "2015-09-01T00:00:01-03:00"
+title = "Está na hora de ousar!"
 description = "Os 5 movimentos internos"
 image = "img/post-bg.jpg"
-tags = ["autoconhecimento"]
-title = "Está na hora de ousar!"
-  HeaderBackground = "blue"
-
+tags = ["autoconhecimento", "5 movimentos internos", "heulosofia"]
 +++
 
 Olá Pessoal,
