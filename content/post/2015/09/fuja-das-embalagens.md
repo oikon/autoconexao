@@ -1,7 +1,7 @@
 +++
 authors = ["Mayara Carvalho"]
 categories = ["Dicas"]
-date = "13/09/2015"
+date = "2015-09-13T00:00:01-03:00"
 description = "Aprenda uma receita de simples, fácil e saborosa!"
 image = "img/2015/08/vegetais.jpg"
 series = ["Alimentação Saudável"]
