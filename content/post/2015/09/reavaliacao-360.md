@@ -2,6 +2,7 @@
 authors = ["Rafaela Consani"]
 categories = ["Desenvolvimento Profissional"]
 date = "2015-09-14T00:00:01-03:00"
+publishdate = "2015-09-14T00:00:01-03:00"
 description = "Como lidar com a gestação e o mercado de trabalho"
 image = "img/2015/08/vegetais.jpg"
 tags = ["autoconhecimento"]

@@ -2,12 +2,13 @@
 authors = ["Natália Tavares"]
 categories = ["Dicas"]
 date = "2015-09-10T00:00:01-03:00"
+publishdate = "2015-09-10T00:00:01-03:00"
 description = "Muhammad Yunus ganhou o Nobem da Paz com este propósito."
 image = "img/2015/08/economia-do-compartilhamento.jpg"
 series = ["Construindo um novo paradigma"]
 tags = ["Economia", "Banqueiro dos Pobres", "novo modelo econômico"]
 title = "Já pensou em criar uma empresa com propósito social?"
-  HeaderBackground = "blue"
+HeaderBackground = "blue"
 
 +++
 
@@ -26,6 +27,6 @@ A cura para essa doença era o consumo de medicamentos ou uma dieta rica em vege
 
 > "Em sete anos, nos tornamos o maior vendedor de sementes do país. E a cegueira noturna foi erradicada. É essa a ideia do negócio social."
 
-Viu só, não foi por pouco que todo seu esforço humanitário lhe rendeu o prêmio Nobel da Paz em 2006. 
+Viu só, não foi por pouco que todo seu esforço humanitário lhe rendeu o prêmio Nobel da Paz em 2006.
 
 Quer saber mais sobre o Banqueiro dos Pobres? [Leia a matéria completa na Revista TRIP](http://revistatrip.uol.com.br/revista/245/reportagens/o-banqueiro-dos-pobres-muhammad-yunus-propoe-uma-nova-logica.html).  
