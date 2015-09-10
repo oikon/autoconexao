@@ -1,7 +1,7 @@
 +++
 authors = ["Maurisa Felício Castilho"]
 categories = ["Arte e Cultura"]
-date = "2015-09-11T00:00:01-03:00"
+date = "11/09/2015"
 description = "Será que estamos passando do nosso limíte?"
 image = "img/2015/08/voluntaria-maurisa-fransisco-morato.jpg"
 tags = ["autoconhecimento", "terceira idade"]
