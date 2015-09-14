@@ -4,11 +4,11 @@ categories = ["Dicas"]
 date = "2015-09-13T00:00:01-03:00"
 publishdate = "2015-09-13T00:00:01-03:00"
 description = "Aprenda uma receita de simples, fácil e saborosa!"
-image = "img/2015/08/granola-caseira.jpg"
+image = "img/2015/09/granola-caseira.jpg"
 series = ["Alimentação Saudável"]
 tags = ["Receita", "Cereal Matinal"]
 title = "Granola Caseira"
-  HeaderBackground = "blue"
+  HeaderBackground = "gray"
 
 +++
 
