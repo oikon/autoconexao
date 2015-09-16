@@ -2,6 +2,7 @@
 authors = ["Jonas Rodrigues"]
 categories = ["produtividade"]
 date = "2015-09-17T00:00:01-03:00"
+publishdate = "2015-09-17T00:00:01-03:00"
 title = "Conheça os Podcasts"
 description = "Uma forma fácil de aproveitar o seu tempo e aprender de graça"
 image = "img/2015/09/podcasts.jpg"
