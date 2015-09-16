@@ -1,6 +1,6 @@
 +++
 authors = ["Carmen Lúcia Martines"]
-categories = ["Arte e Cultura"]
+categories = ["Pedagogia"]
 date = "2015-09-16T00:00:01-03:00"
 publishdate = "2015-09-16T00:00:01-03:00"
 description = "Precisamos refletir onde estamos errando"
