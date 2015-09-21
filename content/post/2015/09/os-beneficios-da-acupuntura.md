@@ -4,7 +4,7 @@ categories = ["Saúde e Bem Estar"]
 date = "2015-09-21T00:00:01-03:00"
 publishdate = "2015-09-21T00:00:01-03:00"
 description = "A ciência já comprovou que vão de doenças físicas à emocionais."
-image = "img/2015/08/acupuntura.jpg"
+image = "img/2015/09/spa.jpg"
 tags = ["bem estar"]
 title = "Você sabe quais são os benefícios da acupuntura?"
   HeaderBackground = "blue"
@@ -62,6 +62,6 @@ O Departamento de Medicina Tradicional Chinesa do Hospital e Maternidade Shenzhe
 
 Mas estudiosos da The North American Menopause Society sugerem que acupuntura pode ajudar a reduzir a gravidade e frequência das ondas de calor em mulheres na menopausa. Os resultados foram publicados dia 07 de julho na revista Menopause. A equipe de pesquisa analisou 104 estudos que avaliaram a eficácia da acupuntura, incluindo 12 desses estudos em suas pesquisas, envolvendo 869 mulheres com idades entre os 40 e 60 anos que estavam passando pela menopausa naturalmente. O estudo descobriu que as mulheres na menopausa que foram submetidas à acupuntura tiveram uma redução na gravidade e frequência das ondas de calor nos três meses seguintes. Além disso, o tratamento parece ter um efeito benéfico independentemente do número de doses, sessões ou a duração do tratamento recebido. O tratamento mais eficaz para as ondas de calor da menopausa é a terapia hormonal - o uso de medicamentos que contém estrogênio ou progesterona. No entanto, esse tratamento pode aumentar o risco de outras condições de saúde, incluindo AVC, doenças cardíacas e câncer.
 
-### 8. Trata insônia e melhora a qualidade do sono
+### 8. ao Trata insônia e melhora a qualidade do sono
 
 Uma revisão sobre a eficácia da Acupuntura como um tratamento de insônia foi realizado por um estudante de pós doutorado na Universidade de Pittsburgh e publicado no Journal of Advanced Nursing em 2003. O pesquisador avaliou 11 estudos experimentais distintos publicados entre 1975 e 2002. Cada estudo demonstrou que o tratamento de Acupuntura melhorou significativamente os sintomas de insônia. Os estudos também mostram que a Acupuntura pode melhorar não apenas a duração do sono, mas a sua qualidade. Um estudo, conduzido por pesquisadores de China Affiliated Hospital de Sun Yat-sen University e publicado no Jornal de Medicina Chinesa em 2009, descobriu que quatro sessões de acupuntura levou a melhorias significativas na qualidade do sono (incluindo sono REM e tempo de sono de ondas lentas) e na função social do dia. Notavelmente, 67% dos participantes ainda estavam livres de insônia um mês depois.
