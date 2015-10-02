@@ -49,6 +49,9 @@ Por exemplo, um pão artesanal, produzido somente com farinha, sal, água e ferm
 
 A imagem abaixo extraída do guia ilustra muito bem a diferença entre o alimento in natura, processado e ultraprocessado.
 
+![Diferença de alimentos in natura, processados e ultraprocessados](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2015/10/guia-alimentar-para-a-popula%C3%A7%C3%A3o-brasileira.jpg)
+
+
 Este vídeo sintetiza bem o novo guia:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rDQv4IJMhT0" frameborder="0" allowfullscreen></iframe>
