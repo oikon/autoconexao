@@ -62,7 +62,7 @@ ATENÇÃO: Se existirem larvas vivas, o vinagre não vai matá-las, mas faz com 
 ## SAÚDE:
 Estudos dizem que o vinagre de maçã possui boas quantidades de ácido acético. Este ácido inibe a ação de várias enzimas que digerem os carboidratos, entre elas amilase, sacarase, maltase e lactase. Assim, este ácido é um bloqueador natural da absorção de amidos e açúcar. Quando estas enzimas são bloqueadas, os carboidratos passam direto através do trato digestivo. Desta maneira, são eliminadas calorias que se tivessem sido absorvidas contribuiriam para o aumento de peso.
 
-Disem ainda que o ácido acético ainda irá melhorar a eficiência dos músculos e a recuperação após os treinos. Além disso, a substância faz com que a glicose seja liberada lentamente no sangue, o que é benéfico para prevenir o diabetes.
+Dizem ainda que o ácido acético ainda irá melhorar a eficiência dos músculos e a recuperação após os treinos. Além disso, a substância faz com que a glicose seja liberada lentamente no sangue, o que é benéfico para prevenir o diabetes.
 
 A ácidez do vinagre pode atacar o trato digestivo de algumas pessoas, sendo assim, aconcelhe-se com seu médico.
 
