@@ -6,7 +6,7 @@ publishdate = "2015-10-09T00:00:01-03:00"
 description = "Saiba quais os perigos de deixar os alimentos expostos em temperatura ambiente!!"
 image = "img/2015/10/alimentos-preparados.jpg"
 tags = ["bactérias"]
-title = "O verão nem chegou e já estamos morrendo com o calor."
+title = "O verão nem chegou e já estamos sofrendo com o calor."
   HeaderBackground = "blue"
 
 +++
