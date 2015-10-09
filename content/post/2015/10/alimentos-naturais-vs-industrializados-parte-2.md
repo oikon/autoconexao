@@ -6,7 +6,6 @@ publishdate = "2015-10-02T00:00:01-03:00"
 description = "Se você tivesse consciência do custo de um industrializado para sua saúde você não o comeria. Entenda."
 image = "img/2015/09/industrializados-e-naturias.jpg"
 series = ["Guia Alimentar para a População Brasileira"]
-tags = ["documentário", "alem do peso"]
 title = "Alimentos Processados vs. ultraprocessados"
   HeaderBackground = "gray"
 
