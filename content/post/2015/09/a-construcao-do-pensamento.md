@@ -2,7 +2,7 @@
 authors = ["Dra. Paula Andréa Sousa Ramos"]
 categories = ["autoconhecimento"]
 date = "2015-09-02T00:00:01-05:00"
-description = "Reconstruindo o pensar"
+description = "Transformando a nossa mente - Obsrvar"
 image = "img/2015/09/o-pensar.jpg"
 tags = ["pensamento", "psicologia"]
 title = "Penso, logo desisto!"
