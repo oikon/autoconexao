@@ -40,7 +40,9 @@ Venha participar conosco desse bate papo e ver que não é processo impossível,
   <abbr title="Phone">Tel:</abbr> (19) 3256.0339
 </address>
 
+
 **Não é de Campinas?**
-[Acompanhe a aula pelo Periscope][a41c6f3b]
+
+Acompanhe a aula pelo [Periscope][a41c6f3b]
 
   [a41c6f3b]: https://www.periscope.tv/ "Periscope"
