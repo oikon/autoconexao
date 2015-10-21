@@ -51,7 +51,7 @@ A resposta é simples: começando por você mesmo. Esse é o nosso maior desafio
 
 E assim vamos encontrando mil desculpas e justificativas para não cuidar de nós mesmos. É como construir uma casa enorme, num terreno sem alicerce.
 
-Quando nos propomos a observar nosso movimento no dia a dia e refletir em formas de torna-lo mais produtivo e saudável, começamos a encontrar soluções simples para modifica-lo. Percebemos onde estamos perdendo tempo seja na preguiça ou direcionando nosso foco para coisas que não agregam nada em nosso aprendizado.
+Quando nos propomos a observar nosso movimento no dia a dia e refletir em formas de torná-lo mais produtivo e saudável, começamos a encontrar soluções simples para modificá-lo. Percebemos onde estamos perdendo tempo seja na preguiça ou direcionando nosso foco para coisas que não agregam nada em nosso aprendizado.
 
 A dica é começar trabalhando nas pequenas coisas, revendo seus pensamentos, sua postura e comportamento, estabelecendo com disciplina e continuidade cada passo da sua mudança no ambiente pessoal, familiar, profissional, social e comunitário.
 
