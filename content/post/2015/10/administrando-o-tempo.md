@@ -26,9 +26,13 @@ Refletindo um pouco sobre o assunto descobri que quanto mais compromissos e resp
 Coloque em um papel quanto tempo do seu dia ou semana você utiliza para:
 
 1) Cuidar de seu corpo e de sua mente, se autoconhecendo;
+
 2) Conviver com sua família e amigos;
+
 3) Fazer algo que lhe dê prazer e estimule a sua criatividade;
+
 4) Investir em sua carreira e profissão;
+
 5) Ser voluntário desenvolvendo suas habilidades e competências para contribuir na construção de uma sociedade melhor.
 
 ## Você deve estar se perguntando: Nossa como consigo tempo para fazer tudo isso?
