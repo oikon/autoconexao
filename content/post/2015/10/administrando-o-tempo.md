@@ -56,6 +56,7 @@ Quando nos propomos a observar nosso movimento no dia a dia e refletir em formas
 A dica é começar trabalhando nas pequenas coisas, revendo seus pensamentos, sua postura e comportamento, estabelecendo com disciplina e continuidade cada passo da sua mudança no ambiente pessoal, familiar, profissional, social e comunitário.
 
 Crie uma agenda de vida com este foco:
+
 - Distribua em sua semana as ações que você pode realizar,
 - encontre formas, simples, objetivas e criativas de fazer as coisas.
 
