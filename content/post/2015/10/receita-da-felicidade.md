@@ -13,7 +13,7 @@ HeaderBackground = "gray"
 
 Na decada de 80 Toquinho escreveu uma linda [Receita de Felicidade][f9585622], mas de lá pra cá, parece que receita está desandando...
 
-Entre os anos de 2007 e 2010, os ansiolíticos foram os medicamentos controlados mais consumidos no Brasil. [Segundo a Anvisa][9cadd47c], Clonazepam, Bromazepan e Alprazolam, que são usados no tratamento dos distúrbios da ansiedade, foram os medicamentos ocuparam, durante todo o período analisado, as três primeiras posições de venda.
+Entre os anos de 2007 e 2010, os ansiolíticos foram os medicamentos controlados mais consumidos no Brasil. [Segundo a Anvisa][9cadd47c], Clonazepam, Bromazepan e Alprazolam, que são usados no tratamento dos distúrbios da ansiedade, foram os medicamentos que ocuparam, durante todo o período analisado, as três primeiras posições de venda.
 
   [9cadd47c]: http://portal.anvisa.gov.br/wps/content/anvisa+portal/anvisa/sala+de+imprensa/menu+-+noticias+anos/2012+noticias/ansioliticos+sao+destaque+em+boletim+da+anvisa "Anvisa"
   [f9585622]: https://www.youtube.com/watch?v=jeupDLO6hfY "Receita de Felicidade - Toquinho"
@@ -35,14 +35,16 @@ Para mim, isso não responde meus anseios... Isso não é trabalho! Eu preciso m
 
 Mas então, <kbd>COMO transformar toda essa meleca que passamos milenios contruindo em felicidade, sentimentos positivos e equilíbrio?</kbd>
 
-No Instituto Oikon temos um processo de meditação que segue bastante a linha do Monge quando ele diz que temos que observar nosso pensamentos, identificar o que está parado em nossa mente e transformar tudo isso.
+No [Instituto Oikon][f326f26b] temos um processo de meditação que segue bastante a linha do Monge quando ele diz que temos que observar nosso pensamentos, identificar o que está parado em nossa mente e transformar tudo isso.
+
+  [f326f26b]: http://www.oikon.org.br/ "Instituto Oikon"
 
 Mas quando se trata em transformar, diferente do monge que fala que temos apenas que pensar naquilo para dissolver, damos uma receitinha (se é que podemos falar desse jeito) para colocar a mão na massa!
 
 Pois é, a triste notícia é que temos que colocar a mão na meleca. Por outro lado, a boa notícia é que garantimos que o processo funciona. <kbd>Trabalho gera movimento e movimento transforma!</kbd>
 
 
-No Instituto Oikon, chamamos a meditação de Saneamento Mental. Para explicar melhor o processo meditativo, dividimos didaticamente o Saneamento Mental em 5 fases: Varredura, Organização Focada, Impessoalidade, Neutralidade e Vacuidade.
+Chamamos a meditação de Saneamento Mental e para explicar melhor o processo meditativo, dividimos didaticamente o Saneamento Mental em 5 fases: Varredura, Organização Focada, Impessoalidade, Neutralidade e Vacuidade.
 
 Para entender um pouco sobre os processos do Saneamento Mental Sugerimos que você leia os posts:
 
