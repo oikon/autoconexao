@@ -41,7 +41,7 @@ No [Instituto Oikon][f326f26b] temos um processo de meditação que segue bastan
 
 Mas quando se trata em transformar, diferente do monge que fala que temos apenas que pensar naquilo para dissolver, damos uma receitinha (se é que podemos falar desse jeito) para colocar a mão na massa!
 
-Pois é, a triste notícia é que temos que colocar a mão na meleca. Por outro lado, a boa notícia é que garantimos que o processo funciona. <kbd>Trabalho gera movimento e movimento transforma!</kbd>
+Pois é, a triste notícia é que temos que colocar a mão na meleca. Por outro lado, garantimos que o processo funciona. <kbd>Trabalho gera movimento e movimento transforma!</kbd>
 
 
 Chamamos a meditação de Saneamento Mental e para explicar melhor o processo meditativo, dividimos didaticamente o Saneamento Mental em 5 fases: Varredura, Organização Focada, Impessoalidade, Neutralidade e Vacuidade.
@@ -62,9 +62,9 @@ Para entender um pouco sobre os processos do Saneamento Mental Sugerimos que voc
 É o mesmo processo de educação de uma criança, não adianta dizer: PORQUE SIM!
 Temos que explicar para ela os motivos que consideramos que aquilo não é o melhor para ela, e então deixar que ela chegue nas conclusões...
 
-Quando identificamos um pensamento que nos incomoda, vamos buscar a origem dessa incomodação. É aí que entra o processo de autoconhecimento.
+Quando identificamos um pensamento que nos incomoda, vamos buscar a origem dessa incomodação. É aí que entra o processo de <kbd>autoconhecimento</kbd>.
 
-Só assim, depois de muito trabalho que conseguimos alcançar a Neutralidade e Vacuidade que é o parar de pensar!
+Só assim, depois de muito trabalho, que conseguimos alcançar a Neutralidade e Vacuidade que é o parar de pensar!
 
 <kbd>Até porque, ficar em equilíbrio com aquelas paisagens maravilhosas, longe dos conflitos familiáres e profissionais é uma coisa... A neutralidade real é permanecer em equilíbrio e administrando todos os ambientes da vida.</kbd>
 
