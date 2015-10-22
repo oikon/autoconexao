@@ -36,12 +36,19 @@ Saiba mais sobre o Guia Alimentar da População Brasileira nos posts:
 
   [0dabc144]: http://blog.autoconexao.org.br/post/2015/10/alimentos-naturais-vs-industrializados-parte-2/ "Novo Guia Alimentar da População Brasileira"
 
-E como identificar estes produtos? É simples, se eu consigo comprar este ingrediente em supermercado ele não é um alimento ultraprocessado. Agora se eu não consigo comprar este ingrediente, fique longe deste alimento. São os estabilizantes, emulsificantes, conservadores, etc. No exemplo acima então qual seria a melhor opção para a minha alimentação???
+E como identificar estes produtos? É simples, se eu consigo comprar este ingrediente em supermercado ele não é um alimento ultraprocessado. Agora se eu não consigo comprar este ingrediente, fique longe deste alimento. São os estabilizantes, emulsificantes, conservadores, etc.
 
-Nenhum! Um pão frances, pão caseiro, pão integral artesanal comprado na padaria do bairro, é a melhor opção. Acredite, a ideia de que comprar pão integral industrializado é melhor do que o pão francês caiu por terra! Eu explico, o pão artesanal feito apenas com a farinha, sal, água e fermento é muito melhor do que um pão que leva conservante, corante, estabilizante, etc. Claro se você puder produzir seu próprio pão integral em casa ou comprar um pão integral artesanal que não leve ingredientes sintéticos melhor ainda! Portanto evite a qualquer custos biscoitos, pães, e todos os demais produtos que levem os ingredientes citados!
+## No exemplo acima então qual seria a melhor opção para a minha alimentação???
 
-DICA: uma máquina de fazer pão pode ajudar muito a você levar uma vida mais saudável, basta colocar os ingredientes, programar a máquina e pronto, pão quentinho e sem conservantes, estabilizante, corantes....
+## <kbd>Nenhum!</kbd>
+
+Um pão frances, pão caseiro, pão integral artesanal comprado na padaria do bairro, é a melhor opção. Acredite, a ideia de que comprar pão integral industrializado é melhor do que o pão francês caiu por terra!
+
+Eu explico, o pão artesanal feito apenas com a farinha, sal, água e fermento é muito melhor do que um pão que leva conservante, corante, estabilizante, etc. Claro se você puder produzir seu próprio pão integral em casa ou comprar um pão integral artesanal que não leve ingredientes sintéticos melhor ainda! Portanto evite a qualquer custos biscoitos, pães, e todos os demais produtos que levem os ingredientes citados!
+
+`DICA: uma máquina de fazer pão pode ajudar muito a você levar uma vida mais saudável, basta colocar os ingredientes, programar a máquina e pronto, pão quentinho e sem conservantes, estabilizante, corantes....
+`
 
 Você aprendeu nestes posts a fazer escolhas corretas, através da leitura dos ingredientes, fique atento aos produtos que consome e faça escolhas conscientes. Aqui enfatizei os pães pois o brasileiro consume este produto diariamente. Mas use estas informações para todos os produtos: Sucos, iogurtes, bolos, produtos prontos congelados (pão de queijo, tortas...), doces, etc.
 
-Consuma saúde!
+## Consuma saúde!
