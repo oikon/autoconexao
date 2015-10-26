@@ -46,7 +46,7 @@ Pois é, a triste notícia é que temos que colocar a mão na meleca. Por outro 
 
 Chamamos a meditação de Saneamento Mental e para explicar melhor o processo meditativo, dividimos didaticamente o Saneamento Mental em 5 fases: Varredura, Organização Focada, Impessoalidade, Neutralidade e Vacuidade.
 
-Para entender um pouco sobre os processos do Saneamento Mental Sugerimos que você leia os posts:
+Para entender um pouco sobre os processos do Saneamento Mental, sugiro que você leia os posts:
 
 [Varredura e Organização Focada - Os dois primeiros passos da Meditação][200b0c5e]
 
