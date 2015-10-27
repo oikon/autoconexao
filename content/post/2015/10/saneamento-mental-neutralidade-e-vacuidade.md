@@ -15,9 +15,9 @@ O quanto você se irrita com uma fila de banco? Perde controle no trânsito? Gri
 Com essas perguntas básicas você pode entender como está a sua neutralidade. O processo meditativo nada mais é que um exercício de autoconhecimento para te ajudar a suportar as pressões do dia a dia, e fazer o que tem que ser feito na hora e lugar, do jeito certo, para a pessoa certa.
 
 
-Nas duas aulas passadas começamos a falar sobre o Saneamento Mental. Para relembrar, ele é dividido em 5 etapas: Varredura, Organização Focada, Impessoalidade, Neutralidade e Vaicuidade.
+Nas duas aulas passadas começamos a falar sobre o Saneamento Mental. Para relembrar, ele é dividido em 5 fases: Varredura, Organização Focada, Impessoalidade, Neutralidade e Vacuidade.
 
-Para entender um pouco sobre os processos do Saneamento Mental Sugerimos que você leia os posts:
+Para entender um pouco sobre os processos do Saneamento Mental sugerimos que você leia os posts:
 
 [Varredura e Organização Focada - Os dois primeiros passos da Meditação][200b0c5e]
 
@@ -29,7 +29,7 @@ Para entender um pouco sobre os processos do Saneamento Mental Sugerimos que voc
   [9af9cb73]: http://blog.autoconexao.org.br/post/2015/10/saneamento-mental-neutralidade/ "Impessoalidade"
 
 
-Hoje vamos explicar sobre a Neutralidade e Vacidade. Faremos uma dinâmica para tentarmos observar como está nossa neutralidade e como chegar na vacuidade.
+Hoje vamos explicar sobre a Neutralidade e Vacuidade. Faremos uma dinâmica para tentarmos observar como está nossa neutralidade e como chegar na vacuidade.
 
 Afinal, somente quando estamos em silêncio absoluto que conseguimos tocar nossa essência, ver nosso real potencial produtivo e sentir o perfume que exala da nossa sapiência.
 
