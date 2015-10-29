@@ -3,9 +3,10 @@ authors = ["Instituto Oikon"]
 categories = ["Autoconexão"]
 date = "2015-10-29T00:00:01-03:00"
 publishdate = "2015-10-29T00:00:01-03:00"
-description = "Mudar o ambiente de tralho sozinho não é fácil, mas em grupo você pode conseguir!"
+description = "Mudar o ambiente de trabalho sozinho não é fácil, mas em grupo você pode conseguir!"
 image = "img/2015/10/meditacao-na-empresa.jpg"
 title = "Como ter um bom clima na sua empresa"
+tags = ["meditação"]
 
 +++
 
