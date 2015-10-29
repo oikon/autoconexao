@@ -1,11 +1,10 @@
 +++
 authors = ["Instituto Oikon"]
-categories = ["Dicas"]
+categories = ["Autoconexão"]
 date = "2015-10-29T00:00:01-03:00"
 publishdate = "2015-10-29T00:00:01-03:00"
 description = "Mudar o ambiente de tralho sozinho não é fácil, mas em grupo você pode conseguir!"
-image = "img/2015/10/mata-atlantica-serra-da-grandarela.jpg"
-tags = ["Consumo consciente"]
+image = "img/2015/10/meditacao-na-empresa.jpg"
 title = "Como ter um bom clima na sua empresa"
 
 +++
