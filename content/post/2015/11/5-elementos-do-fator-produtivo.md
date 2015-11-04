@@ -1,3 +1,4 @@
+
 +++
 authors = ["Instituto Oikon"]
 categories = ["Meditação Conectiva"]
@@ -34,6 +35,7 @@ São esses os 3 elementos que vamos abordar na reflexão de hoje aqui no Institu
 Aqui explicamos um pouco o que é... Na aula vamos falar também do como construir esse novo ser produtivo.
 
 
+* *essência do ser*
 
 **Onde?**
 
