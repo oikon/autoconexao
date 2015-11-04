@@ -19,3 +19,27 @@ Em viagem de trabalho à Paris, nosso Fundador, o Comendador Paulo Zabeu de Sous
 O comendador Paulo Zabeu fez um breve discurso sobre educação e como resultado, ele será convidado oficialmente para participar de um evento que acontecerá na Universidade de Sorbonne, em março de 2016.
 
 Parabéns a toda a equipe da Fundação Eufraten e do Instituto Oikon, por mais essa conquista e reconhecimento.
+
+
+![Dr. Paulo, Dra. Paula e Prof. Florant](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2015/11/prof-florant-dr-paulo-dra-paula.jpeg)
+
+***Prof. Florant, Dr. Paulo e Dra. Paula***
+
+
+![Dr. Paulo e Prof. Florant](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2015/11/dr-paulo-e-prof-florant.jpeg)
+
+***Dr. Paulo e Prof. Florant***
+
+
+![Doutores conversando no auditório da Sorbonne](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2015/11/auditorio-sorbonne.jpeg)
+
+***Doutores conversando no auditório da Sorbonne***
+
+![Doutor Paulo com Doutores da Universidade de Sorbonne](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2015/11/doutores-da-sorbonne.jpeg)
+
+***Dr. Paulo com Doutores da Universidade de Sorbonne***
+
+
+![Dr. Paulo no Auditório da Sorbonne](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2015/11/dr-paulo-auditorio-sorbonne.jpeg)
+
+***Dr. Paulo no auditório da Sorbonne***
