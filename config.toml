@@ -13,7 +13,7 @@ disqusShortname = "autoconexao"
 
 [params]
   DateForm = "02/01/2006"
-  Description = 
+  Description = ""
   Author = "Instituto Oikon"
   email = "contato@autoconexao.org.br"
   Ganalytics = "UA-65639209-1"
