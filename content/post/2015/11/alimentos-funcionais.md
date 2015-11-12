@@ -6,7 +6,7 @@ publishdate = "2015-11-06T00:00:01-03:00"
 title = "Castanhas, cenoura, alho, vinho..."
 description = "Alimentos Funcionais e seus compostos bioativos"
 image = "img/2015/11/alimentos-funcionais.jpg"
-series = ["Rótulos de Embalagens"]
+series = ["Alimentos Funcionais"]
   HeaderBackground = "blue"
 
 +++
