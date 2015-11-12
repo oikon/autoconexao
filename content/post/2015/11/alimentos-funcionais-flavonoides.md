@@ -1,12 +1,12 @@
 +++
 authors = ["Mayara Carvalho"]
 categories = ["Dicas"]
-date = "2015-11-06T00:00:01-03:00"
-publishdate = "2015-11-06T00:00:01-03:00"
+date = "2015-11-13T00:00:01-03:00"
+publishdate = "2015-11-13T00:00:01-03:00"
 title = "Amora, amendoim, cacau, chá verde..."
 description = "São mais parecidos do que você pode imaginar! Entenda!"
 image = "img/2015/11/alimentos-funcionais.jpg"
-series = ["Rótulos de Embalagens"]
+series = ["Alimentos Funcionais"]
   HeaderBackground = "blue"
 
 +++
