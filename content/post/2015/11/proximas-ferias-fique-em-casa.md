@@ -7,8 +7,7 @@ description = "Descubra que a melhor paisagem está dentro de você."
 title = "Próximas Férias - Fique em casa!"
 HeaderBackground = "blue"
 image = "img/2015/11/medite-em-casa.jpg"
-series = ["3 Rs - Recicle, Reduza, Reutilize"]
-tags = ["reciclagem", "reduza", "reutilize"]
+tags = ["meditaçao", "autoconhecimento"]
 
 
 +++
