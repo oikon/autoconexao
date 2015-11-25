@@ -15,6 +15,7 @@ tags = ["Consumo consciente"]
 
 
 Veja como economizar:
+
 - Evite acender lâmpadas durante o dia, aproveite a luz natural.
 - Abra as janelas, cortinas, persianas e deixe a luz do dia iluminar sua casa.
 - Apague sempre as lâmpadas dos ambientes desocupados.
