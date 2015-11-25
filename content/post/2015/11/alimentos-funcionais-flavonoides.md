@@ -59,4 +59,5 @@ Bata tudo no liquidificador, decore com uma folha de hortelã e consuma imediata
 
 ![](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2015/11/smoothie-receita-autoconexao.jpg)
 
-#receitinhasaudável #CONSUMASAUDE
+#receitinhasaudável
+## #consumasaude
