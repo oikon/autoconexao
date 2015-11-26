@@ -5,7 +5,7 @@ date = "2015-11-26T00:00:01-03:00"
 publishdate = "2015-11-26T00:00:01-03:00"
 title = "Ambiente + Estratégia = Novo Comportamento"
 description = "Utilize sua força de vontade de forma inteligente"
-image = "img/2015/11/medite-em-casa.jpg"
+image = "img/2015/11/homem-lupa.jpg"
 tags = ["cultura", "aprendizado"]
 HeaderBackground = "gray"
 
