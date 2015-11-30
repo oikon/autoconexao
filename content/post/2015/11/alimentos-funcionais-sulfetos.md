@@ -48,7 +48,7 @@ As principais fontes de sulfeto é a cebola, o alho, alho poró, cebolinha e os 
 - Suco de 2 limões;
 - Sal à gosto;
 - Tomilho fresco à gosto;
-- 1 colheres de sopa de açúcar;
+- 1 colher de sopa de açúcar;
 
 
 ## Modo de preparo:
