@@ -20,7 +20,7 @@ Se é assim, o que move as pessoas a mudar? Na Heulosofia intitulamos as Forças
 Amor só o Criador o tem, porque Ele é a fonte de tudo. Como resultante de seu efeito, podemos dizer que somos catalisadores da sua energia criativa, que pode dar vida e movimento; e a capacidade de administrar os movimentos da vida, imitando o Criador, chama-mos de reciprocidade.
 
 ## Dor
-É resultado da sensação de perda que congela o fluxo natu- ral de energia, provoca constrangimento no Ser e inibi a sua força interna.
+É resultado da sensação de perda que congela o fluxo natural de energia, provoca constrangimento no Ser e inibi a sua força interna.
 
 ## Remorso
 O remorso é o sentimento de culpa de algo cometido contra alguém, o arrependimento é a emoção aflorada de quem deveria ter feito mais ou menos, positivo ou negativo, bem ou mal; é uma reação nossa, conosco mesmo.
