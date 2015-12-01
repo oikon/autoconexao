@@ -17,7 +17,7 @@ Quem é que nunca ouviu dizer isso? Que não adianta achar que podemos mudar o o
 Se é assim, o que move as pessoas a mudar? Na Heulosofia intitulamos as Forças Transformadoras do ser, são 4 forças que acreditamos levar o ser a mudança: O Amor, a Dor, o Remorso e o Cansaço.
 
 ## Amor
-Amor só o Criador o tem, porque Ele é a fonte de tudo. Como resultante de seu efeito, podemos dizer que somos catalisadores da sua energia criativa, que pode dar vida e movimento; e a capacidade de administrar os movimentos da vida, imitando o Criador, chama-mos de reciprocidade.
+Amor só o Criador o tem, porque Ele é a fonte de tudo. Como resultante de seu efeito, podemos dizer que somos catalisadores da sua energia criativa, que pode dar vida e movimento; e a capacidade de administrar os movimentos da vida, imitando o Criador, chamamos de reciprocidade.
 
 ## Dor
 É resultado da sensação de perda que congela o fluxo natural de energia, provoca constrangimento no Ser e inibi a sua força interna.
