@@ -1,8 +1,8 @@
 +++
 authors = ["Mayara Carvalho"]
 categories = ["Dicas"]
-date = "2015-11-20T00:00:01-03:00"
-publishdate = "2015-11-20T00:00:01-03:00"
+date = "2015-12-04T00:00:01-03:00"
+publishdate = "2015-12-04T00:00:01-03:00"
 title = "Você sabe utilizar as fibras para controlar sua glicemia e seu colesterol?"
 description = "Conheça as filbras e como consumí-las"
 image = "img/2015/11/alimentos-funcionais.jpg"
@@ -53,5 +53,5 @@ Aprenda a fazer seu próprio cereal matinal:
 
 
 *Importante: Consuma muita água. Uma dieta rica em fibras e pobre em água pode deixar seu intestino ressecado e causar a prisão de ventre!
-                                                                               
+
 ## #consumasaude  #nutricao
