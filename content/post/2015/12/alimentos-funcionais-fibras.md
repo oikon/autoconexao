@@ -22,7 +22,7 @@ Aveia, linhaça, feijões, ervilhas, farelos de trigo, de milho, cereais integra
 “Alimentos funcionais são aqueles que proporcionam benefícios médicos ou de saúde, incluindo a prevenção e o tratamento de doenças, devido a compostos químicos com atividade biológica” (FERREIRA, 2006).
 
 Nas semanas anteriores falamos sobre os ÁCIDOS GRAXOS, FLAVONÓIDES, CAROTENOIDES, SULFETOS relembre aqui o conteúdo completo:
-Nas semanas anteriores falamos sobre os ÁCIDOS GRAXOS, FLAVONÓIDES e CAROTENOIDES, relembre aqui o conteúdo completo:
+
 
 [Ácidos Graxos: Castanhas, Cenoura, Alho, Vinho... Alimentos Funcionais E Seus Compostos Bioativos](http://blog.autoconexao.org.br/post/2015/11/alimentos-funcionais/)
 
