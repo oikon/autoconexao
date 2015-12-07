@@ -7,6 +7,7 @@ title = "Emoção e saúde"
   HeaderBackground = "blue"
 description = "As relações e origens"
 image = "img/2015/11/psicosomatica.jpg"
+series = ["Influência das emoções na saúde"]
 tags = ["bem estar"]
 
 
