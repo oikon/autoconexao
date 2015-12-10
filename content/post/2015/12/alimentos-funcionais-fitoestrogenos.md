@@ -1,8 +1,8 @@
 +++
 authors = ["Mayara Carvalho"]
 categories = ["Dicas"]
-date = "2015-12-10T00:00:01-03:00"
-publishdate = "2015-12-10T00:00:01-03:00"
+date = "2015-12-11T00:00:01-03:00"
+publishdate = "2015-12-11T00:00:01-03:00"
 title = "Sofre os calores da menopausa?"
 description = "Controle essa sensação comendo!"
 image = "img/2015/11/alimentos-funcionais.jpg"
@@ -40,9 +40,7 @@ A soja é um alimento muito versátil, melhor ainda se for orgânica. Temos os g
 
 - Utilize a no moscada para temperar a carne, frango, feijão...
 
-No link abaixo baixe o arquivo de uma série de receitas com soja desenvolvida pela Mundo Verde.
-
-http://www.mundoverde.com.br/UploadDocumentos/Receitas-com-Soja.pdf
+No link abaixo baixe o arquivo de uma série de receitas com soja desenvolvida pela Mundo Verde: http://www.mundoverde.com.br/UploadDocumentos/Receitas-com-Soja.pdf
 
 
 
