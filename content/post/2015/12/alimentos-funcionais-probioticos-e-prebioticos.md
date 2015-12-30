@@ -21,7 +21,7 @@ Os probióticos são os iogurtes e os leites fermentados, que tem a função de 
 
 Os prebióticos são os alimentos destas bactérias do bem. Se não alimentarmos nossos soldados eles morrem e perdem a batalha para as bactérias ruins. Por isso precisamos dos dois para um bom funcionamento. As fontes de prebióticos são os grãos integrais, aveia, cebola, alho, mel, batata yacon e aspargo.
 
-![](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2015/12/intestino.jpg)
+![](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2015/12/probioticos-e-prebioticos.jpg)
 
 
 #dicadanutri
