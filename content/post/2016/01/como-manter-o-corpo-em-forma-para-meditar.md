@@ -15,7 +15,7 @@ Meditar vem do latim *meditare*, que significa "voltar-se para o centro no senti
 Agora, como podemos desligar de tudo quando sentimos aquela dor nas costas, formigamento nas pernas depois de poucos minutos sentados no chão ou o pescoço tenso que não nos deixa permanecer na postura ereta?
 
 
-É... preparar o corpo físico é extremamente importante para a meditação, pelo menos uma série de aquecimento de penas, coluna e pescoço deve ser feita todos os dias antes da prática meditativa.
+É... preparar o corpo físico é extremamente importante para a meditação, pelo menos uma série de aquecimento das pernas, coluna e pescoço devem ser feitas todos os dias antes da prática meditativa.
 
 Na aula de hoje, vamos passar uma série de aquecimento com meditação de 50 minutos, sendo 25 de aquecimento e 25 de meditação.
 
