@@ -19,7 +19,7 @@ Essas diferentes reações acontecem porque cada pessoa carrega registros de aco
 
 # Sim, emoção é AÇÃO!
 
- **Emoção** vem do latim = **MOVERE** São nossas ações e reações, ligadas à sobrevivência.
+ **Emoção** vem do latim = **MOVERE.** São nossas ações e reações, ligadas à sobrevivência.
 
 
 ## Mas qual o problema com as emoções? Não é isso que nos torna humanos?
