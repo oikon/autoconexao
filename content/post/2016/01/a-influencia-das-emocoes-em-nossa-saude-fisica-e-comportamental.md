@@ -48,19 +48,32 @@ Enquanto isso, o comando cerebral para o corpo também faz com que soframos muda
 
 Quem cumpre esse papel são os neurotransmissores, que são substâncias químicas fundamentais na comunicação entre os neurônios, que regulam nosso organismo e são ativadas pelas nossas EMOÇÕES.
 
-Para cada situação nosso cérebro envia comandos para que nossos neurotransmissores produzam uma determinada substância química. Algumas delas são: dopamina, adrenalina, noradrenalina, cortisol, serotonina, insulina, hormônios tireoidianos, etc.
+Para cada situação nosso cérebro envia comandos para que nossos neurotransmissores produzam uma determinada substância química.
+
+
+## Algumas substâncias químicas que controlam nossas reações:
+
+- dopamina,
+- adrenalina,
+- noradrenalina,
+- cortisol,
+- serotonina,
+- insulina,
+- hormônios tireoidianos, etc.
+
+
 Para entender melhor, quando estamos numa situação de perigo, nosso corpo libera uma carga extra de adrenalina e noradrenalina. Assim termos a resposta física mais rápida para reagir.
 
 Esses são comandos de sobrevivência, regula o sistema cardíaco, nos dá ânimo, controle da ansiedade e da dor, resistência às infecções, entre outros.
 
-Quando perdemos o controle das nossas emoções, todas essas reações químicas sofrem alterações, pois para acontecerem, elas precisam estar dentro da temperatura e pH ideal.
+## Quando perdemos o controle das nossas emoções, todas essas reações químicas sofrem alterações, pois para acontecerem, elas precisam estar dentro da temperatura e pH ideal.
 
 Quando passamos a ficar “adaptados” nessa situação de estresse fisiológico, passamos a nos expor às situações para que nosso organismos libere com mais frequência essa substância.
 Aí mora o perigo, pois, com o tempo, vamos desequilibrando cada vez mais aquela substância para permanecer no mesmo estado químico desarmônico no qual nos condicionamos.
 Nosso organismo chega num limite, e com o tempo entramos num processo de exaustão.  Assim, vêm problemas como diabetes, tireoide, pressão alta, mau humor, inibição do desejo sexual, osteoporose, depressão e muitas outras doenças...
 
 
-Por esta razão, o equilíbrio das emoções é tão importante no nosso dia a dia.
+## Por esta razão, o equilíbrio das emoções é tão importante no nosso dia a dia.
 
 Depois de tanta química, fica mais claro entender o bem estar que sentimos com a meditação! É o nosso corpo funcionando em perfeito equilíbrio, em perfeita química!
 
