@@ -100,4 +100,4 @@ Quer saber mais? Participe conosco!
 
 Acompanhe a aula pelo [Periscope][a41c6f3b]
 
-  [a41c6f3b]: https://www.periscope.tv/ "Periscope"
+  [a41c6f3b]: https://www.periscope.tv/ "Periscope" @sou_autoconexao
