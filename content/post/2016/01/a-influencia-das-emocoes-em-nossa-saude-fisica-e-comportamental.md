@@ -15,12 +15,17 @@ Quem nunca ouviu dizer que algumas doenças têm fundo emocional? Que somatizamo
 
 Mais que isso, porque cada pessoa tem uma reação diferente em uma determinada situação? Diante de uma situação de estresse uns suam frio, outros perdem apetite, tremem as mãos, pernas bambas ou ainda uma vontade desesperadora de sair correndo...
 
-Essas diferentes reações acontecem porque cada pessoa carrega registros de acordo com suas experiências vividas, que sem controle ou saneamento, nos leva a agir. Isso é o que chamamos de EMOÇÃO. Sim, emoção é AÇÃO! Emoção vem do latim = MOVERE
-São nossas ações e reações, ligadas à sobrevivência.
+Essas diferentes reações acontecem porque cada pessoa carrega registros de acordo com suas experiências vividas, que sem controle ou saneamento, nos leva a agir. Isso é o que chamamos de EMOÇÃO.
+
+# Sim, emoção é AÇÃO!
+
+ **Emoção** vem do latim = **MOVERE** São nossas ações e reações, ligadas à sobrevivência.
 
 
+## Mas qual o problema com as emoções? Não é isso que nos torna humanos?
+![O que nos torna humano](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/01/emocao-o-que-nos-torna-humanos.jpg)
 
-Mas qual o problema com as emoções? Não é isso que nos torna humanos?
+
 Exatamente, a emoção em si não tem problema nenhum. Isso se estivermos vivendo em harmonia e equilíbrio.
 
 
@@ -61,6 +66,7 @@ Veja esse infográfico com os benefícios da meditação.
 
 
 Quer saber mais? Participe conosco!
+
 
 **Onde?**
 
