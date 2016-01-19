@@ -29,13 +29,18 @@ Essas diferentes reações acontecem porque cada pessoa carrega registros de aco
 Exatamente, a emoção em si não tem problema nenhum. Isso se estivermos vivendo em harmonia e equilíbrio.
 
 
-Com os estudos mais modernos podemos visualizar fisicamente o que acontece com o cérebro humano durante a exposição às emoções. A Técnica de Neuroimagem permite mapear as regiões cerebrais ativadas e desativadas durante as situações da vida.
+Com os estudos mais modernos podemos visualizar fisicamente o que acontece com o cérebro humano durante a exposição às emoções. A **Técnica de Neuroimagem** permite mapear as regiões cerebrais ativadas e desativadas durante as situações da vida.
+
+
+![Reações das emoções no cérebro](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/01/reacoes-das-emocoes-no-cerebro.png)
+
+
 Áreas cerebrais envolvidas em reconhecimento visual, passam a apresentar:
+
 - maior irrigação sanguínea
 - metabolismo mais intenso
 - maior atividade dos neurônios
 
-![Reações das emoções no cérebro](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/01/reacoes-das-emocoes-no-cerebro.png)
 
 Enquanto isso, o comando cerebral para o corpo também faz com que soframos mudanças de temperaturas:
 
