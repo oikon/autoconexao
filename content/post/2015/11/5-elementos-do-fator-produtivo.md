@@ -8,7 +8,9 @@ title = "5 elementos do Fator Produtivo"
 description = "Impessoalidade, Reinvenção e Foco"
 image = "img/post-bg.jpg"
 tags = ["autoconhecimento", "heulosofia"]
+
 +++
+
 
 Cada um sabe a dor e a delícia de ser o que é, não é mesmo?
 

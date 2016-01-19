@@ -4,12 +4,11 @@ categories = ["Saúde e Bem Estar"]
 date = "2015-11-09T00:00:01-03:00"
 publishdate = "2015-11-09T00:00:01-03:00"
 title = "Emoção e saúde"
-  HeaderBackground = "blue"
 description = "As relações e origens"
 image = "img/2015/11/psicosomatica.jpg"
 series = ["Influência das emoções na saúde"]
 tags = ["bem estar"]
-
+HeaderBackground = "blue"
 
 +++
 

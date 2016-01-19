@@ -7,8 +7,7 @@ title = "InterONG"
 description = "Desenvolvendo a cidadania pelo Esporte"
 image = "img/2015/11/interong.jpg"
 tags = ["bem estar"]
-
-  HeaderBackground = "blue"
+HeaderBackground = "blue"
 
 +++
 

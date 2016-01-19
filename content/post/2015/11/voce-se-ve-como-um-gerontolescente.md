@@ -4,11 +4,10 @@ categories = ["Arte e Cultura"]
 date = "2015-11-11T00:00:01-03:00"
 publishdate = "2015-11-11T00:00:01-03:00"
 title = "Você se vê como um gerontolescente?"
-  HeaderBackground = "blue"
 description = "Entenda o termo e exempos de gerontolenscentes que fizeram história"
 image = "img/2015/11/terceira-idade-em-acao.jpg"
 tags = ["autoconhecimento", "terceira idade"]
-
+HeaderBackground = "blue"
 
 +++
 

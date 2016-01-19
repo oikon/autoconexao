@@ -7,6 +7,7 @@ title = "Fundação Eufraten e Instituto Oikon na Universidade de Sorbonne, em P
 description = "Um momento de conquista e reconhecimento"
 image = "img/2015/11/sorbonne.jpg"
 tags = ["Pedagogia Conectiva"]
+
 +++
 
 

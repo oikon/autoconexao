@@ -3,14 +3,15 @@ authors = ["Natália Tavares"]
 categories = ["Dicas"]
 date = "2015-09-10T00:00:01-03:00"
 publishdate = "2015-09-10T00:00:01-03:00"
+title = "Já pensou em criar uma empresa com propósito social?"
 description = "Muhammad Yunus ganhou o Nobel da Paz com este propósito."
 image = "img/2015/08/economia-do-compartilhamento.jpg"
 series = ["Construindo um novo paradigma"]
 tags = ["Economia", "Banqueiro dos Pobres", "novo modelo econômico"]
-title = "Já pensou em criar uma empresa com propósito social?"
 HeaderBackground = "blue"
 
 +++
+
 
 # Será que os empresários estão dispostos a abrir mão do lucro?
 

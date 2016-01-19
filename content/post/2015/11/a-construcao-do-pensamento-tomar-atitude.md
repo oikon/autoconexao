@@ -3,13 +3,13 @@ authors = ["Dra. Paula Andréa Sousa Ramos"]
 categories = ["autoconhecimento"]
 date = "2015-11-18T00:00:01-05:00"
 publishdate = "2015-11-18T00:00:01-03:00"
+title = "Penso, logo desisto!"
 description = "O movimento fundamental para a Mudança - Tomar Atitude"
 image = "img/2015/09/o-pensar.jpg"
 tags = ["pensamento", "psicologia"]
-title = "Penso, logo desisto!"
 HeaderBackground = "blue"
-+++
 
++++
 
 
 # Querer é poder! Será????

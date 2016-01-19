@@ -7,7 +7,7 @@ description = "Diminuindo a agitação das crianças"
 image = "img/2015/11/2015_EPV3_04_yoga.JPG"
 tags = ["yoga", "meditação"]
 title = "Roda de Harmonização"
-  HeaderBackground = "blue"
+HeaderBackground = "blue"
 
 +++
 

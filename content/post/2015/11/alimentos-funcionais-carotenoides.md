@@ -11,6 +11,7 @@ series = ["Alimentos Funcionais"]
 
 +++
 
+
 # Relembrando...
 
 A dieta habitual fornece, além de macro e micronutrientes essenciais (carboidratos, proteínas, vitaminas, minerais..), alguns compostos químicos chamados de compostos bioativos, que podem desempenhar diversos papéis em benefício à saúde humana, o estudo desses compostos inspirou um conceito chamado de alimentos funcionais. O termo alimento funcional originou-se no Japão em 1980, quando a indústria iniciou a fortificação de alimentos, inferindo-lhes certos benefícios à saúde (COZZOLINO, 2009).

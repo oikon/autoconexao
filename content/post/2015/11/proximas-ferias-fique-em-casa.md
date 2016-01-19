@@ -5,10 +5,9 @@ date = "2015-11-16T00:00:01-03:00"
 publishdate = "2015-11-16T00:00:01-03:00"
 description = "Descubra que a melhor paisagem está dentro de você."
 title = "Próximas Férias - Fique em casa!"
-HeaderBackground = "blue"
 image = "img/2015/11/medite-em-casa.jpg"
 tags = ["meditaçao", "autoconhecimento"]
-
+HeaderBackground = "blue"
 
 +++
 
