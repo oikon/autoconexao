@@ -2,7 +2,7 @@
 authors = ["Tiago Mulato"]
 categories = ["Saúde e Bem Estar"]
 date = "2016-01-22T00:00:01-03:00"
-publishdate = "2015-01-22T00:00:01-03:00"
+publishdate = "2016-01-22T00:00:01-03:00"
 title = "Meditação é treino"
 description = "Assim como precisamos treinar o corpo, temos que treinar a mente!"
 image = "img/2015/11/interong.jpg"
