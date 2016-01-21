@@ -50,3 +50,7 @@ Também faço minhas viagens,passeios (quando possível).
 
 A prática de tudo o acima, relatado, me deixa longe da farmácia, dos remédios e me ajuda a ter uma vida mais feliz.
 Lembrete: Nunca estacionar na vida. Ação o tempo todo, o tempo todo muita ação!!!
+
+
+---
+<small>Foto do cabeçalho por [Edwin Lee](https://www.flickr.com/photos/edwinylee/)</small>
