@@ -43,7 +43,7 @@ No próximo texto da série: Voltando a hábitos saudáveis, vamos ver como isso
 
 
 ---
-<small>Foto do cabeçalho por [Adifansnet](https://www.flickr.com/photos/adifans/)</small>
+<small>Foto do cabeçalho por [Wisconsin Department of Natural Resources](https://www.flickr.com/photos/widnr/)</small>
 <small>Foto Bebê na paisagem por [Eric Lewis](https://www.flickr.com/photos/subewl/)</small>
 <small>Foto Bebê no computador por [Paul Inkles](https://www.flickr.com/photos/dumfstar/)</small>
 <small>Foto Portaretrato por [Beverly & Pack](https://www.flickr.com/photos/walkadog/)</small>

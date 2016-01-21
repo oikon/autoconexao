@@ -1,8 +1,8 @@
 +++
 authors = ["Maurisa Felício Castilho"]
-categories = ["Arte e Cultura"]
+categories = ["Preparando o Corpo para a Meditação"]
 date = "2016-01-20T00:00:01-03:00"
-publishdate = "2015-01-20T00:00:01-03:00"
+publishdate = "2015-01-20T00:03:01-03:00"
 title = "Qual a importância de ter meu corpo preparado?"
 description = "Dicas para chegar na terceira idade com saúde física"
 image = "img/2016/01/exercicio-na-terceira-idade.jpg"

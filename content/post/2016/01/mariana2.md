@@ -1,6 +1,6 @@
 +++
 authors = ["Mariana Martines"]
-categories = ["Yoga", "Pedagogia"]
+categories = ["Yoga para Crianças"]
 date = "2016-01-29T00:00:01-03:00"
 publishdate = "2016-01-29T00:00:01-03:00"
 description = "Diminuindo a agitação das crianças"
