@@ -3,11 +3,10 @@ authors = ["Mayara Carvalho"]
 categories = ["Dicas"]
 date = "2016-02-29T00:00:01-03:00"
 publishdate = "2016-02-29T00:00:01-03:00"
-title = "Amora, amendoim, cacau, chá verde..."
-description = "São mais parecidos do que você pode imaginar! Entenda!"
-image = "img/2015/11/alimentos-funcionais.jpg"
-series = ["Alimentos Funcionais"]
-  HeaderBackground = "blue"
+title = "Comer ou não comer antes de meditar? Eis a questão"
+description = "Saiba o que pode e o que não pode!"
+image = "img/2016/02/comer-ou-nao-comer.jpg"
+
 
 +++
 
@@ -27,6 +26,7 @@ Para prática meditativa plena, você precisa se concentrar nos seus pensamentos
 ## Dica nº 2: Coma pouco e leve antes de meditar
 
 ![Respiração abdominal](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/01/respiracao-abdominal.jpg)
+
 Durante a meditação, utiliza-se de técnicas respiratórias para acalmar a mente e elevar o nível de concentração. A respiração consciente e profunda faz com que aumentemos o trabalho do diafragma, que por sua vez comprime todo o intestino. Por isso, é importante que a alimentação pré-meditação seja leve e pequena, afinal não queremos um intestino cheio de comida sendo comprimido a cada respiração.
 
 Coma no máximo 30 minutos antes da meditação.
@@ -67,5 +67,4 @@ No próximo texto, vou dar algumas receitas de lanches pré-meditação com as r
 
 
 ---
-<small>Foto do cabeçalho por [Adifansnet](https://www.flickr.com/photos/adifans/)</small>
-<small>Foto Meditando no Deserto por [Urbanicsgroup](https://www.flickr.com/photos/urbanicsgroup/)</small>
+<small>Foto do cabeçalho por [JD Hancock](https://www.flickr.com/photos/jdhancock/)</small>
