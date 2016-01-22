@@ -30,7 +30,7 @@ Infelizmente, essa não é a realidade.
 ![Bebê no computador](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/01/bebe-e-tecnologia.jpg)
 
 Foi-se o tempo que as crianças brincavam livremente na rua, subiam em árvores, jogavam bola, corriam, pulavam, andavam descalços e se sujavam.
-Hoje a televisão, os celulares, tablets, computadores e vídeos games fazem a vez das brincadeiras de rua e da diversão. As consequências desse novo estilo de vida infelizmente não são apenas para o corpo físico, como também o excesso de estimulo mental também pode atrapalhar o sono, gerar ansiedade e dificuldades de concentração.
+Hoje a televisão, os celulares, tablets, computadores e vídeos games fazem a vez das brincadeiras de rua e da diversão. As consequências desse novo estilo de vida infelizmente não são apenas para o corpo físico, o excesso de estimulo mental também pode atrapalhar o sono, gerar ansiedade e dificuldades de concentração.
 
 ## Vale a pena ressaltar que a ideia não é voltar aos tempos pré-históricos e afastar as crianças de qualquer tipo de tecnologia, mas sim buscar um equilíbrio entre as atividades do dia-dia.
 ![Retrato antigo](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/01/criancas-antigas.jpg)
