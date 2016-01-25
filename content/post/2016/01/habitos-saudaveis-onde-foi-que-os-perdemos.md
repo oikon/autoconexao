@@ -4,7 +4,7 @@ categories = ["Yoga para Crianças"]
 date = "2016-01-22T00:00:01-03:00"
 publishdate = "2016-01-22T00:03:01-03:00"
 title = "Hábitos saudáveis. Onde foi que os perdemos?"
-description = "Exercitar nosso corpo deveria ser feito desde pequenos..."
+description = "Deveríamos exercitar nosso corpo desde pequenos..."
 image = "img/2016/01/criancas-brincando.jpg"
 tags = ["yoga", "meditação"]
 
