@@ -1,8 +1,8 @@
 +++
 authors = ["Mayara Carvalho"]
 categories = ["Preparando o Corpo para a Meditação"]
-date = "2016-01-29T00:00:01-03:00"
-publishdate = "2016-01-29T00:03:01-03:00"
+date = "2016-01-27T00:00:01-03:00"
+publishdate = "2016-01-27T00:03:01-03:00"
 title = "6 dicas infalíveis de alimentação para prática meditativa"
 description = "Os maus hábitos alimentares podem influenciar sua meditação"
 image = "img/2016/01/equilibrio-na-meditacao.jpg"
