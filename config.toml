@@ -26,13 +26,13 @@ disqusShortname = "autoconexao"
 
 [[params.social]]
   title = "twitter"
-  url = "https://twitter.com/InstitutoOikon"
+  url = "https://twitter.com/SouAutoconexao"
 [[params.social]]
   title = "github"
   url = "https://github.com/oikon"
 [[params.social]]
   title = "facebook"
-  url = "https://www.facebook.com/InstitutoOikon"
+  url = "https://www.facebook.com/autoconexao"
 
 [[menu.main]]
   name = "home"
