@@ -3,10 +3,11 @@ authors = ["Carmen Lúcia Martines"]
 categories = ["Preparando o Corpo para a Meditação"]
 date = "2016-02-03T00:00:01-03:00"
 publishdate = "2016-02-03T00:03:01-03:00"
-description = "Tem horário disponível para você, seu trabalho, a família, amigos e a comunidade?"
+title = "O maior desafio para fazer exercício é nossa mente"
+description = "Veja dicas de como administrar as dificuldades"
 image = "img/2015/10/estou-perdido.jpg"
 tags = ["tempo", "administração"]
-title = "Como está sua agenda?"
+
   HeaderBackground = "gray"
 
 
@@ -67,16 +68,21 @@ Não precisamos esperar que a doença bata em nossa porta, que a nossa mente fiq
 Podemos aprender observando a natureza, a água que é um líquido puro, se ficar parada, criará limbo e doenças, o que dirá o nosso corpo e a nossa mente sem um movimento de renovação?
 
 Na natureza tudo é movimento constante, nada se perdem tudo se transforma.
-Vamos lá!  Anote aí os ingredientes desta receita:
-Força de Vontade
-Planejamento
-Organização
-Disciplina e Continuidade
-Modo de preparar:
+
+#Vamos lá! Anote aí os ingredientes desta receita:
+
+- Força de Vontade
+- Planejamento
+- Organização
+- Disciplina e Continuidade
+
+## Modo de preparar:
+
 Junte a força de vontade com o desafio de transformar sem pressa a sua vida e sentir-se bem consigo mesmo.
 Adicione a disciplina e a continuidade, misture bem, recheie com uma camada de organização, despeje na forma do planejamento e leve ao forno moderado para assar durante toda a sua vida.
+
 Enquanto assa, você vai sentir um aroma diferente, perfumando sua mente. Seu foco a cada dia vai ficar mais claro e seus objetivos mais definidos.
-Depois de pronto, você vai saborear a conquista da saúde e da longevidade produtiva.  E então, vamos começar? Bom apetite!
-Carmen Lúcia F. Martines
-Psicopedagoga
-Diretora Educacional Fundação Eufraten
+
+Depois de pronto, você vai saborear a conquista da saúde e da longevidade produtiva.
+
+## E então, vamos começar? Bom apetite!
