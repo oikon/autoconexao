@@ -4,7 +4,7 @@ categories = ["Preparando o Corpo para a Meditação"]
 date = "2016-01-27T00:00:01-03:00"
 publishdate = "2016-01-27T00:03:01-03:00"
 title = "6 dicas infalíveis de alimentação para prática meditativa"
-description = "Os maus hábitos alimentares podem influenciar sua meditação"
+description = "a dica #5 é a mais importante!"
 image = "img/2016/01/equilibrio-na-meditacao.jpg"
 
 HeaderBackground = "blue"
@@ -14,7 +14,8 @@ HeaderBackground = "blue"
 
 # Equilibrar a alimentação ajuda no processo de autoconhecimento!
 
-## a dica #5 é a mais importante!
+## Os maus hábitos alimentares podem influenciar sua meditação
+
 
 
 Agora que estamos dispostos a praticar a meditação, alguns dilemas sempre surgem, e um deles também surgiu comigo. A nossa má forma física e nossos hábitos alimentares podem influenciar neste processo? Como posso me preparar melhor para esta prática? Como posso levar uma vida mais saudável?
