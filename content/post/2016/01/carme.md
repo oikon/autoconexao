@@ -2,7 +2,7 @@
 authors = ["Carmen Lúcia Martines"]
 categories = ["Preparando o Corpo para a Meditação"]
 date = "2016-02-03T00:00:01-03:00"
-publishdate = "2016-02-03!T00:03:01-03:00"
+publishdate = "2016-02-03T00:03:01-03:00"
 description = "Tem horário disponível para você, seu trabalho, a família, amigos e a comunidade?"
 image = "img/2015/10/estou-perdido.jpg"
 tags = ["tempo", "administração"]
