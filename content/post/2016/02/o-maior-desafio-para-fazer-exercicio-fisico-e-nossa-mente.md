@@ -3,7 +3,7 @@ authors = ["Carmen Lúcia Martines"]
 categories = ["Preparando o Corpo para a Meditação"]
 date = "2016-02-03T00:00:01-03:00"
 publishdate = "2016-02-03T00:03:01-03:00"
-title = "O maior desafio para fazer exercício é nossa mente"
+title = "O maior desafio para fazer exercício físico é nossa mente"
 description = "Veja dicas de como administrar as dificuldades"
 image = "img/2015/10/estou-perdido.jpg"
 tags = ["tempo", "administração"]
@@ -19,7 +19,7 @@ tags = ["tempo", "administração"]
 A cada dia nossa vida torna-se mais corrida, quase não sobra tempo para cuidar de nós mesmos.
 Sabemos que para ter um corpo saudável, temos que ter uma alimentação equilibrada, praticar atividades físicas com regularidade, ter uma boa noite de sono e realizar atividades que nos deem prazer.
 
-#Mas como conseguir, nos dias de hoje, incorporar em nossa rotina diária estas ações, tornando-as um hábito em nossa vida?
+# Mas como conseguir, nos dias de hoje, incorporar em nossa rotina diária estas ações, tornando-as um hábito em nossa vida?
 
 Gostaria de compartilhar com você, um pouco da minha rotina para cuidar do meu corpo e educar a minha mente, acredito que ao relatá-la no Blog Autoconexão, me sentirei ainda mais comprometida e autoconectada comigo mesma para realiza-la e quem sabe estimulá-lo a vencer o desafio de começar!
 
@@ -50,7 +50,7 @@ Comecei mudando minha rotina diária, aos poucos. Afinal se todos os dias temos 
 - 2 vezes  por semana faço aula de Yoga no Espaço Autoconexão, onde aprendo novas práticas, investindo na saúde do meu corpo, no autoconhecimento e na educação da minha mente.
 
 
-#Alimentação
+# Alimentação
 
 Com o passar do tempo, busquei equilibrar também a minha alimentação ingerindo mais frutas, verduras, legumes, bebendo mais água e reduzindo o consumo do glutén e da lactose.
 
@@ -69,7 +69,7 @@ Podemos aprender observando a natureza, a água que é um líquido puro, se fica
 
 Na natureza tudo é movimento constante, nada se perdem tudo se transforma.
 
-#Vamos lá! Anote aí os ingredientes desta receita:
+# Vamos lá! Anote aí os ingredientes desta receita:
 
 - Força de Vontade
 - Planejamento
