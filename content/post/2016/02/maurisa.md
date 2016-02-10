@@ -2,7 +2,7 @@
 authors = ["Maurisa Felício Castilho"]
 categories = ["Respirar é vida e equilíbrio"]
 date = "2016-02-15T00:00:01-03:00"
-publishdate = "2015-02-15T00:03:01-03:00"
+publishdate = "2016-02-15T00:03:01-03:00"
 title = "Aprenda a identificar sua respiração"
 description = "Dicas para controlá-la e respirar melhor"
 image = "img/2016/01/exercicio-na-terceira-idade.jpg"
