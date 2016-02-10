@@ -3,9 +3,9 @@ authors = ["Maurisa Felício Castilho"]
 categories = ["Respirar é vida e equilíbrio"]
 date = "2016-02-15T00:00:01-03:00"
 publishdate = "2016-02-15T00:03:01-03:00"
-title = "Aprenda a identificar sua respiração"
-description = "Dicas para controlá-la e respirar melhor"
-image = "img/2016/01/exercicio-na-terceira-idade.jpg"
+title = "Está com dificuldade de respirar?"
+description = "10 Dicas práticas para melhorar sua respiração"
+image = "img/2016/02/senhora-respirando.jpg"
 tags = ["autoconhecimento", "terceira idade"]
 
   HeaderBackground = "blue"
@@ -37,45 +37,62 @@ Se você sente uma necessidade, contínua, de se espreguiçar, pode ser que este
 
 # DICAS QUE VÃO AJUDAR VOCÊ A RESPIRAR MELHOR:
 
-## YOGA COM MANTRAS:
+![Dicas para respirar melhor](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/02/respirar-melhor.jpg)
+
+## #1 YOGA COM MANTRAS:
 A prática do yoga permite deixar os pulmões areados. Os exercícios ideais se praticam sentado, com a coluna ereta e consistem em uma série de contrações rítmicas do abdômen.
-Com a prática dos mantras:
+
+
+### Com a prática dos mantras:
+
+
 -	Alinhamos nossos pensamentos;
 -	Desenvolvemos a clareza mental e ampliamos a visão percepcional;
 -	Tomamos consciência das nossas verdadeiras necessidades
 
-## PILATES:
+## #2 PILATES:
 Este método, incorporando movimentos lentos e controlados, serve para melhorar o equilíbrio, a firmeza e a postura corporal, como resultado, melhor respiração.
 
-## TAICHÍ:
+## #3 TAICHÍ:
 Está baseada na meditação (embora nesse caso, em movimento), no relaxamento e respiração.
-ESPORTES QUE FORTALECEM O PULMÃO:
 
-## CAMINHADA:
+
+# ESPORTES QUE FORTALECEM O PULMÃO:
+
+![Corrida](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/02/corrida.jpg)
+
+## #4 CAMINHADA:
 Está provado que, sair a caminhar, durante 30 minutos ao dia, melhora o funcionamento de todos os músculos, inclusive a musculatura que intervém na respiração, pois se torna mais eficiente.
 
-## NATAÇÃO:
+## #5 NATAÇÃO:
 É uma das melhores opções para cuidar de seus pulmões, inclusive se sofrer algum tipo de enfermidade respiratória, uma vez que, com esse exercício, se pratica uma respiração controlada, que ajuda a tomar consciência dela.
 
-## CORRIDA SUAVE:
+## #6 CORRIDA SUAVE:
 Ao correr, você põe em movimento os braços e mobiliza os músculos da zona superior do tronco, beneficiando os pulmões. Segundo se demonstram a musculatura dessa zona, está implicada ao processo de respiração.
 
-## FAÇA EXERCÍCIOS PARA CORRIGIIR OS “ MAUS VÍCIOS” ADQUIRIDOS
+## #7 FAÇA EXERCÍCIOS PARA CORRIGIR OS “MAUS VÍCIOS” ADQUIRIDOS
 Fazer exercícios diariamente ajuda a tomar consciência da respiração e a corrigir  assim, os maus vícios adquiridos, à hora de respirar.
 
 
-## EXPANDIR O TÓRAX
+## #8 EXPANDIR O TÓRAX
 1) Sentar-se com os braços esticados e as mãos entrelaçadas, diante do corpo, elevar os braços ao máximo, ao mesmo tempo que inspirar o ar, profundamente, pelo nariz. Em seguida, abaixe-os, lentamente, enquanto expulsar o ar.
+
 2)  Por as mãos sobre o esterno, com os cotovelos abaixo, e a cada lado do corpo. Inspirar o ar pelo nariz, abrindo os cotovelos para os lados, soltando o ar pela boca, e abaixando novamente os cotovelos ao lado do corpo e assim sucessivamente.
 
 
-## CONTROLAR O RITMO
+## #9 CONTROLAR O RITMO
 1) Em pé e com as pernas separadas, inspirar o ar pelo nariz, ao mesmo tempo, elevar progressivamente os braços, mantendo-os, esticados, por cima da cabeça. Soltar o ar, enquanto for abaixando os braços, lentamente.
+
 2) Caminhar sem perder o controle da frequência respiratória. Inspirar o ar pelas narinas, em 1 passo e expirar pela boca, em 2. Aumentar pouco a pouco, de 5 a 15 minutos, o tempo que caminhar dessa forma. Fazer o movimento, lento.
 
-## REFORÇAR O DIAFRAGMA
-Deitar de barriga para cima, com uma almofada embaixo da cabeça (pescoço) até a lombar. Deixar os braços relaxados, ao lado do corpo. Inspirar o ar, suavemente, pelo nariz, ao mesmo tempo, inflar a barriga. Em seguida, soltar o ar, pouco a pouco, pela boca, esvaziando o ar da barriga. Com a prática, poderá fazer esse exercício, sem a almofada, apoiando a parte superior da cabeça e mantendo o arco da coluna, como se tivesse a almofada, como apoio.
+## #10 REFORÇAR O DIAFRAGMA
+Deitar de barriga para cima, com uma almofada embaixo da cabeça (pescoço) até a lombar. Deixar os braços relaxados, ao lado do corpo.
+
+Inspirar o ar, suavemente, pelo nariz, ao mesmo tempo, inflar a barriga. Em seguida, soltar o ar, pouco a pouco, pela boca, esvaziando o ar da barriga.
+
+Com a prática, poderá fazer esse exercício, sem a almofada, apoiando a parte superior da cabeça e mantendo o arco da coluna, como se tivesse a almofada, como apoio.
 
 
 Essas foram nossas dicas de hoje. Se feitas com frequência, nossas vidas poderão se tornar melhores e com mais qualidade.
+
 Até breve.

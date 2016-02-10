@@ -1,12 +1,13 @@
 +++
-authors = ["Tatiana Duarte"]
+authors = ["Tiago Mulato"]
 categories = ["Respirar é vida e equilíbrio"]
 date = "2016-02-19T00:00:01-03:00"
 publishdate = "2016-02-19T00:03:01-03:00"
-title = "Quero praticar meditação"
-description = "mas meu corpo não me deixa... :("
-image = "img/2016/01/meditar-esta-acabando-com-as-minhas-costas.jpg"
-tags = ["exercícios", "alongamento", "caminhada"]
+title = "Melhorando sua respiração pelo DO-IN"
+description = "Técnica milenar ajuda e respiração em alguns minutos!"
+image = "img/2016/02/do-in.jpg"
+
+HeaderBackground = "blue"
 
 
 +++
@@ -27,15 +28,22 @@ O Do-in é uma técnica de auto massagem que compõe a Medicina Tradicional Chin
 
 É muito simples. A massagem consiste, basicamente, no emprego de três tipos de toque:
 
-- Estimulação – massagem superficial, rápida em sentido horário sobre um ponto de 1 a 2 minutos;
-- Harmonização – massagem com pressão média em sentido horário e velocidade média sobre um ponto por 3 minutos;
-- Sedação – pressão contínua sobre um ponto de 3 a 5 minutos.
+<kbd>Estimulação:</kbd>
+massagem superficial, rápida em sentido horário sobre um ponto de 1 a 2 minutos;
+
+<kbd>Harmonização:</kbd>
+massagem com pressão média em sentido horário e velocidade média sobre um ponto por 3 minutos;
+
+<kbd>Sedação:</kbd>
+pressão contínua sobre um ponto de 3 a 5 minutos.
 
 Existe um ponto muito importante chamado P7. Ele tem essa sigla, pois é o 7º ponto do meridiano do pulmão. Quando massageado, ele tem o efeito de abrir o tórax, tonifica a energia do corpo e tem efeito psicológico, liberando a tensão emocional.
 
 ## Você já deve estar se perguntando onde fica esse ponto, não é?
 
-Dê uma olhada na imagem abaixo.
+Dê uma olhada na imagem:
+
+![Ponto do Pulmão no Do-in](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/02/ponto-do-pulmao-no-do-in.jpg)
 
 Como não é sempre que temos um profissional próximo para saber como massagear esse ponto, vai uma dica importante. “Na dúvida, sempre harmonize”.
 
