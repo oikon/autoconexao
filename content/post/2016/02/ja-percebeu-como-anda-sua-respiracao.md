@@ -5,7 +5,7 @@ date = "2016-02-12T00:00:01-03:00"
 publishdate = "2016-02-12T00:03:01-03:00"
 title = "Já percebeu como anda sua respiração?"
 description = "Além de ser fundamental para a vida, ela revela nosso estado emocional."
-image = "img/2016/02/mulher2_parque_yoga.jpg"
+image = "img/2016/02/respirar.jpg"
 
 HeaderBackground = "blue"
 
@@ -20,6 +20,8 @@ Ela está curta, ofegante, sufocada? Ou está lenta, profunda e tranquila? Quand
 
 Sente-se em uma postura confortável, de preferência no chão ou na cadeira. Mantenha sua coluna ereta e respire pelas narinas. Coloque a sua mão direita um pouco acima do seu umbigo e a mão esquerda sob o seu coração.
 
+![Identificando a respiração](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/02/identificando-a-respiracao.jpg)
+
 Agora feche os olhos suavemente e inspire pelas narinas até preencher por completo os seus pulmões de ar. Retenha por alguns segundos e solte lentamente pelas narinas, faça este exercício por mais duas a três vezes. Sinta a si mesmo. Na última vez, ao expirar o ar, abra os olhos devagar.
 
 ## E então como você se sentiu? Ficou ansioso e sentiu falta de ar? Ou sentiu-se bem, como se estivesse conectando-se com você mesmo?
@@ -27,6 +29,8 @@ Agora feche os olhos suavemente e inspire pelas narinas até preencher por compl
 Normalmente nos damos conta da importância da nossa respiração  quando ficamos gripados, nossas fossas nasais ficam congestionadas e não conseguimos dormir direito, nem sentir o sabor dos alimentos, dormimos mal e ficamos irritados para enfrentar o dia seguinte.
 
 ## Respirar é um ato imprescindível para a nossa existência. Podemos ficar alguns dias sem tomar água, sem comer, mas sem respirar, nem pensar! Seria morte na certa!
+
+![Respirar é imprescindível](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/02/respirar-e-imprescindivel.png)
 
 Mas como um ato tão importante e essencial em nossa vida, pode ficar tão desapercebido por nós? Afinal, aprendemos na escola, como nosso corpo funciona, mas não aprendemos que o nosso comportamento e as nossas atitudes podem fazer com o funcionamento do nosso corpo.
 
@@ -42,6 +46,6 @@ Enquanto nos preocupamos apenas em cumprir nossas tarefas diárias no trabalho e
 
 É muito bom saber que apesar do mundo agitado em que vivemos, só depende de nós mesmos escolher como vamos conduzir a nossa vida, começando pela forma como respiramos.
 
-#E então? Vamos praticar?  
+# E então? Vamos praticar?  
 
 ## Até a próxima!
