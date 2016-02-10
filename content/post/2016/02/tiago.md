@@ -1,8 +1,8 @@
 +++
 authors = ["Tatiana Duarte"]
 categories = ["Respirar é vida e equilíbrio"]
-date = "2016-01-19T00:00:01-03:00"
-publishdate = "2016-01-19T00:03:01-03:00"
+date = "2016-02-19T00:00:01-03:00"
+publishdate = "2016-02-19T00:03:01-03:00"
 title = "Quero praticar meditação"
 description = "mas meu corpo não me deixa... :("
 image = "img/2016/01/meditar-esta-acabando-com-as-minhas-costas.jpg"
