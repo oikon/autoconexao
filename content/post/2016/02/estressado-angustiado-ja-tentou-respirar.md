@@ -19,10 +19,10 @@ A ciência recentemente vem comprovando o que há milênios místicos e iogues c
 
 É fácil perceber isso, se prestarmos um pouco de atenção:
 
-**Pânico** - Respiração curta, rápida e rasa
-**Raiva** - Respiração longa e forçada
-**Calma** - Respiração calma e constante
-**Felicidade** - Inspiração longa, expiração longa
+- **Pânico** - Respiração curta, rápida e rasa
+- **Raiva** - Respiração longa e forçada
+- **Calma** - Respiração calma e constante
+- **Felicidade** - Inspiração longa, expiração longa
 
 Isso acontece involuntariamente, na medida em que somos submetidos às pressões do dia-a-dia. Nosso sistema nervoso é sobrecarregado de todos os lados, com excesso de informações, trabalho, má alimentação, falta de exercício, etc. Nossa respiração é controlada automaticamente por esse sistema nervoso sobrecarregado. Portanto, toda essa carga física e mental é manifestada através da respiração.
 
