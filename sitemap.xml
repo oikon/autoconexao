@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2015-07-21T03:14:35-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2015-07-21T03:14:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2015-07-21T03:22:46-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/03/comer-ou-nao-comer-antes-de-meditar/</loc>
+    <lastmod>2016-03-03T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/02/caspa-odor-nas-axilas-mal-halito-o-que-isso-tem-a-ver-com-a-minha-alimentacao/</loc>
+    <lastmod>2016-02-29T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/02/paula/</loc>
+    <lastmod>2016-02-27T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/02/mariana/</loc>
+    <lastmod>2016-02-26T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/02/estressado-angustiado-ja-tentou-respirar/</loc>
+    <lastmod>2016-02-23T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/02/melhorando-sua-respiracao-pelo-do-in/</loc>
+    <lastmod>2016-02-19T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/02/foque-na-sua-respiracao/</loc>
+    <lastmod>2016-02-18T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/02/respiracao-a-energia-da-vida/</loc>
+    <lastmod>2016-02-16T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/02/10-dicas-para-respirar-melhor/</loc>
+    <lastmod>2016-02-15T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/02/ja-percebeu-como-anda-sua-respiracao/</loc>
+    <lastmod>2016-02-12T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/02/6-alimentos-para-dar-um-gas-na-sua-respiracao/</loc>
+    <lastmod>2016-02-10T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/02/saude-do-corpo-e-mente/</loc>
+    <lastmod>2016-02-05T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/02/o-maior-desafio-para-fazer-exercicio-fisico-e-nossa-mente/</loc>
+    <lastmod>2016-02-03T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/02/aprenda-a-identificar-sua-respiracao/</loc>
+    <lastmod>2016-02-02T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/01/desenvolvendo-bons-habitos-desde-pequenos/</loc>
+    <lastmod>2016-02-01T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/01/6-dicas-infaliveis-de-alimentacao-para-pratica-meditativa/</loc>
+    <lastmod>2016-01-27T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/01/afinal-o-que-tem-haver-yoga-com-meditacao/</loc>
+    <lastmod>2016-01-26T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/01/quero-meditar-mas-meu-corpo-nao-me-deixa/</loc>
+    <lastmod>2016-01-25T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/01/habitos-saudaveis-onde-foi-que-os-perdemos/</loc>
+    <lastmod>2016-01-22T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/01/quer-meditar-prepare-seu-corpo/</loc>
+    <lastmod>2016-01-21T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/01/a-importancia-de-ter-o-corpo-preparado/</loc>
+    <lastmod>2016-01-20T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/01/a-influencia-das-emocoes-em-nossa-saude-fisica-e-comportamental/</loc>
+    <lastmod>2016-01-19T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/01/entendendo-nosso-corpo/</loc>
+    <lastmod>2016-01-12T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2016/01/como-manter-o-corpo-em-forma-para-meditar/</loc>
+    <lastmod>2016-01-05T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/12/alimentos-funcionais-acidos-fenolicos/</loc>
+    <lastmod>2015-12-25T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/12/alimentos-funcionais-probioticos-e-prebioticos/</loc>
+    <lastmod>2015-12-18T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/12/seja-um-comandante/</loc>
+    <lastmod>2015-12-15T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/12/alimentos-funcionais-fitoestrogenos/</loc>
+    <lastmod>2015-12-11T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/12/acupuntura-e-as-emocoes-elemento-madeira/</loc>
+    <lastmod>2015-12-07T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/12/alimentos-funcionais-fibras/</loc>
+    <lastmod>2015-12-04T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/12/forca-transformadora-do-ser/</loc>
+    <lastmod>2015-12-01T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/o-educar/</loc>
+    <lastmod>2015-11-30T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/dica-consumo-luz/</loc>
+    <lastmod>2015-11-28T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/alimentos-funcionais-sulfetos/</loc>
+    <lastmod>2015-11-27T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/forca-de-vontade/</loc>
+    <lastmod>2015-11-26T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/harmonizacao-para-comecar-o-dia/</loc>
+    <lastmod>2015-11-25T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/forca-motivas-do-ser/</loc>
+    <lastmod>2015-11-24T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/medite-10-minutos-por-dia/</loc>
+    <lastmod>2015-11-23T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/alimentos-funcionais-carotenoides/</loc>
+    <lastmod>2015-11-20T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/a-construcao-do-pensamento-tomar-atitude/</loc>
+    <lastmod>2015-11-18T00:00:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/as-fases-do-aprendiz-do-saneamento-mental/</loc>
+    <lastmod>2015-11-17T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/proximas-ferias-fique-em-casa/</loc>
+    <lastmod>2015-11-16T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/dica-consumo-ar-condicionado/</loc>
+    <lastmod>2015-11-14T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/alimentos-funcionais-flavonoides/</loc>
+    <lastmod>2015-11-13T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/viver-sem-produzir-lixo-reavalie-sua-rotina/</loc>
+    <lastmod>2015-11-12T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/voce-se-ve-como-um-gerontolescente/</loc>
+    <lastmod>2015-11-11T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/5-elementos-do-fator-produtivo-acao-transformadora/</loc>
+    <lastmod>2015-11-10T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/emocao-e-saude/</loc>
+    <lastmod>2015-11-09T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/dica-consumo-chuveiro-eletrico/</loc>
+    <lastmod>2015-11-07T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/alimentos-funcionais/</loc>
+    <lastmod>2015-11-06T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/interong-desenvolvendo-a-cidadania-pelo-esporte/</loc>
+    <lastmod>2015-11-05T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/instituto-oikon-em-sorbonne-paris/</loc>
+    <lastmod>2015-11-04T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/11/5-elementos-do-fator-produtivo/</loc>
+    <lastmod>2015-11-03T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/dica-latinha-de-aluminio/</loc>
+    <lastmod>2015-10-31T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/piramide-de-alimentos/</loc>
+    <lastmod>2015-10-30T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/empresas-do-futuro/</loc>
+    <lastmod>2015-10-29T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/exercicio-para-acalmar-criancas-e-adolescentes/</loc>
+    <lastmod>2015-10-28T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/saneamento-mental-neutralidade-e-vacuidade/</loc>
+    <lastmod>2015-10-27T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/on-ou-off-de-que-lado-voce-esta/</loc>
+    <lastmod>2015-10-26T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/dica-consumo-pilha/</loc>
+    <lastmod>2015-10-24T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/lendo-rotulos-das-embalagens-continuacao/</loc>
+    <lastmod>2015-10-23T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/receita-da-felicidade/</loc>
+    <lastmod>2015-10-22T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/administrando-o-tempo/</loc>
+    <lastmod>2015-10-21T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/saneamento-mental-impessoalidade/</loc>
+    <lastmod>2015-10-20T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/dor-muscular/</loc>
+    <lastmod>2015-10-19T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/dica-sacola-plastica/</loc>
+    <lastmod>2015-10-17T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/lendo-rotulos-das-embalagens/</loc>
+    <lastmod>2015-10-16T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/a-construcao-do-pensamento-reflexao/</loc>
+    <lastmod>2015-10-14T00:00:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/saneamento-mental-varredura/</loc>
+    <lastmod>2015-10-13T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/metas/</loc>
+    <lastmod>2015-10-12T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/dica-consumo-oleo-de-cozinha/</loc>
+    <lastmod>2015-10-10T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/armazene-alimentos-com-seguranca/</loc>
+    <lastmod>2015-10-09T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/viver-sem-produzir-lixo/</loc>
+    <lastmod>2015-10-08T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/primeiros-socorros/</loc>
+    <lastmod>2015-10-07T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/os-3-principios-da-humanizacao-criatividade/</loc>
+    <lastmod>2015-10-06T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/acupuntura-na-gravidez/</loc>
+    <lastmod>2015-10-05T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/dica-consumo-desligue-seu-computador/</loc>
+    <lastmod>2015-10-03T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/alimentos-naturais-vs-industrializados-parte-2/</loc>
+    <lastmod>2015-10-02T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/10/cursos-online/</loc>
+    <lastmod>2015-10-01T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/consumo-consciente-shampoo-de-vinagre/</loc>
+    <lastmod>2015-09-30T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/15mil-litros-de-agua-para-um-quilo-de-carne/</loc>
+    <lastmod>2015-09-26T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/alimentos-naturais-vs-industrializados/</loc>
+    <lastmod>2015-09-25T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/consumo-consciente/</loc>
+    <lastmod>2015-09-24T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/individus-diferentes-aprendem-de-formas-diferentes/</loc>
+    <lastmod>2015-09-23T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/os-3-principios-da-humanizacao-iniciativa-propria/</loc>
+    <lastmod>2015-09-22T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/os-beneficios-da-acupuntura/</loc>
+    <lastmod>2015-09-21T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/dica-consumo-um-minuto-a-menos-no-banho/</loc>
+    <lastmod>2015-09-19T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/doce-pode-com-moderacao/</loc>
+    <lastmod>2015-09-18T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/conheca-os-podcasts/</loc>
+    <lastmod>2015-09-17T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/como-usar-tecnologia-na-educacao-infaltil/</loc>
+    <lastmod>2015-09-16T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/reavaliacao-360/</loc>
+    <lastmod>2015-09-14T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/fuja-das-embalagens/</loc>
+    <lastmod>2015-09-13T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/dica-consumo-torneira-pingando/</loc>
+    <lastmod>2015-09-12T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/cuidando-dos-netos/</loc>
+    <lastmod>2015-09-11T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/banqueiro-dos-pobres/</loc>
+    <lastmod>2015-09-10T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/os-5-movimentos-internos-retomar-se/</loc>
+    <lastmod>2015-09-08T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/vamos-praticar-saude/</loc>
+    <lastmod>2015-09-07T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/suco-verde/</loc>
+    <lastmod>2015-09-06T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/em-tempo-de-crise-reinvente/</loc>
+    <lastmod>2015-09-04T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/aprendendo-no-transito/</loc>
+    <lastmod>2015-09-03T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/a-construcao-do-pensamento/</loc>
+    <lastmod>2015-09-02T00:00:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/09/os-5-movimentos-internos-ousar-se/</loc>
+    <lastmod>2015-09-01T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/08/o-que-e-acupuntura/</loc>
+    <lastmod>2015-08-31T12:05:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/08/dia-de-feira/</loc>
+    <lastmod>2015-08-30T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/08/dica-consumo-da-agua/</loc>
+    <lastmod>2015-08-29T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/08/voluntariado-na-terceira-idade/</loc>
+    <lastmod>2015-08-28T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/08/economia-do-compartilhamento/</loc>
+    <lastmod>2015-08-27T14:05:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/08/26-yoga/</loc>
+    <lastmod>2015-08-26T00:00:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2015/08/bem-vindos/</loc>
+    <lastmod>2015-08-15T00:00:01-03:00</lastmod>
+  </url>
+  
+</urlset>
