@@ -1,6 +1,6 @@
 +++
 authors = ["Mayara Carvalho"]
-categories = ["Dicas"]
+categories = ["Saneamento Mental"]
 date = "2016-03-03T00:00:01-03:00"
 publishdate = "2016-03-03T00:00:01-03:00"
 title = "Comer ou não comer antes de meditar? Eis a questão"
