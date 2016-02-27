@@ -15,7 +15,7 @@ HeaderBackground = "blue"
 
 Se eu não estiver sempre atenta, é muito fácil cair nas confusões e ilusões de que o que é diferente, o que está longe de mim e às vezes até coisas impossíveis, são melhores e necessárias para o meu bem estar! Mas bastam apenas 3 min de reflexão para lembrar-me de que o preciso verdadeiramente são coisas simples, acessíveis e que estão bem no meu nariz! (literalmente, rs.)
 
-# Você já experimentou tirar um momento de silêncio profundo, em um ambiente com árvores e flores e, simplesmente fez uma respiração lenta e pausada?
+# Você já experimentou tirar um momento de silêncio profundo, em um ambiente com árvores e flores e, simplesmente fazer uma respiração lenta e pausada?
 
 ![Respirar com equilíbrio](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/02/respire-saudavel.jpg)
 
@@ -60,7 +60,7 @@ A falta de energia mental gera instabilidade, o que aumenta a ansiedade, a inseg
 
 Logo está ficando mais fácil entender porque respirar bem acalma a mente e é o primeiro passo para controlar nossa emoções e ter mais clareza mental.
 
-## Respirar bem e alimentar-se bem são as fontes de energia construir nosso bem estar. Ter bem estar envolve atitudes e comportamentos diversos e integrados conosco mesmo.
+## Respirar bem e alimentar-se bem são as fontes de energia para construir nosso bem estar. Ter bem estar envolve atitudes e comportamentos diversos e integrados conosco mesmo.
 ![Equilibrio Pessoal](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/02/equilibrio-pessoal.jpg)
 
 Essa construção é diária e envolve várias atividades. Não fomos feitos para as comodidades e repetições criadas pela  nossa sociedade atual.
