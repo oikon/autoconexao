@@ -33,7 +33,6 @@ O processo de revitalização do corpo é amplamente desenvolvido pela biologia 
 Vamos ampliar esse conceito da ciência ocidental e aprender um pouco mais dos conhecimentos milenares do oriente.
 
 ## RESPIRAR É UM ATO ALÉM DO OXIGÊNIO E GÁS CARBÔNICO
-![Sistema Respiratório](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/02/sistema-respiratorio.png)
 
 Você já olhou para o céu azul em um dia ensolarado e viu partículas luminosas brilhantes? Essas micro partículas são energias transformadas diretamente do sol e chamam-se PRANA.
 
