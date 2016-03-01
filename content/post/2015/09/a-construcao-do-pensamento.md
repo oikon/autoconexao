@@ -23,7 +23,7 @@ A mente é o armazém dos pensamentos. Assim como, a árvore frondosa que fornec
 
 # O problema central dos nossos pensamentos está em dois fatores: quantidade e qualidade.
 
-Por falta de conhecimento nessa área, não temos a premência de que nos compete educar, sanear e administrar nossos pensamentos e manter nossa mente organizada. Todos os nossos excessos emocionais e psicológicos começam da perda do comando dos nossos pensamentos.  
+Por falta de conhecimento nessa área, não temos a ciência de que nos compete educar, sanear e administrar nossos pensamentos e manter nossa mente organizada. Todos os nossos excessos emocionais e comportamentais começam da perda do comando dos nossos pensamentos.  
 
 Quanto mais estímulos externos, mais pensamentos criamos. Quanto maior a pressão e exigência da vida, mais agitados eles se tornam. Quanto mais improdutividade, preguiça, frustrações, inseguranças, ansiedades, mais eles se densificam e aglutinam. Bem-vindo ao descontrole!
 
