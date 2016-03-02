@@ -19,9 +19,13 @@ O pensamento é *“energia viva e dinâmica, ele é a nossa primeira unidade pr
 
 Eles são as ferramentas que usamos para interagir com o mundo e compreendê-lo. Ele é inerente a nossa realidade mental, não é uma opção, portanto, temos uma necessidade de sobrevivência de cuidar do nosso pensar e por consequência da nossa mente.
 
+![Árvore](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/03/arvore.jpg)
+
 A mente é o armazém dos pensamentos. Assim como, a árvore frondosa que fornece uma sombra enorme em uma tarde de verão é formada por pequeninas folhas, a nossa mente é formada por “infinitas” unidades de pensamentos.
 
 # O problema central dos nossos pensamentos está em dois fatores: quantidade e qualidade.
+
+![Pensamentos - Quantidade de Qualidade](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/03/nuvens.jpg)
 
 Por falta de conhecimento nessa área, não temos a ciência de que nos compete educar, sanear e administrar nossos pensamentos e manter nossa mente organizada. Todos os nossos excessos emocionais e comportamentais começam da perda do comando dos nossos pensamentos.  
 
@@ -36,6 +40,8 @@ A primeira ferramenta, o **Observar**  é  *“ter a visão do que está por tr�
 Isto é, ampliar os nossos sentidos e ao mesmo tempo trazer foco e direcionamento para eles. Essa ferramenta é para ser utilizada em todos os momentos de nossa vida, mas vamos começar nosso treinamento aplicando-a em nossa mente e pensamentos.
 
 # Lembra-se da criança birrenta?
+
+![Criaça Chorando](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/03/crianca-chorando.jpg)
 
 A melhor forma dela parar de gritar e chorar, é a mãe ou pai, observá-la sem se envolver e deixar que ela pare sozinha e se recomponha. A nossa mente e pensamentos não são diferentes. Conseguir observar nossos impulsos e omissões e não agir regidos por eles, é nosso primeiro desafio. No exercício de nos observar, vamos tomando ciência do tamanho da bagunça: de pensamentos soltos, repetitivos, desconexos, descontrolados, e ainda, aqueles que não nos pertencem.
 

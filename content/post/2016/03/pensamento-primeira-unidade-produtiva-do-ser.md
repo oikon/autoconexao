@@ -17,7 +17,7 @@ Através dos 5 sentidos: visão, olfato, tato, paladar, audição, nosso cérebr
 
 Para entender todo o processo do pensamento, veja o Post:
 
-[Penso, logo desisto! Transformando a nossa mente - Observar.](http://localhost:1313/post/2015/09/a-construcao-do-pensamento/)
+[Penso, logo desisto! Transformando a nossa mente - Observar.](http://blog.autoconexao.org.br/post/2015/09/a-construcao-do-pensamento/)
 
 
 E assista nossa aula de hoje!!
