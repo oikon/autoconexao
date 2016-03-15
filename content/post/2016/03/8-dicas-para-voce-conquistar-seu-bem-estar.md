@@ -1,6 +1,6 @@
 +++
 authors = ["Dra. Paula Andréa Sousa Ramos"]
-categories = ["Saneamento Mental"]
+categories = ["Meditação"]
 date = "2016-03-07T00:00:01-03:00"
 publishdate = "2016-03-07T00:03:01-03:00"
 title = "8 dicas para você conquistar seu bem estar!"
