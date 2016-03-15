@@ -1,6 +1,6 @@
 +++
 authors = ["Maurisa Felício Castilho"]
-categories = ["Respirar é vida e equilíbrio"]
+categories = ["Meditação"]
 date = "2016-03-23T00:00:01-03:00"
 publishdate = "2016-03-23T00:03:01-03:00"
 title = "Por que é tão difícil meditar?"

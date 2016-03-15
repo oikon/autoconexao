@@ -1,17 +1,17 @@
 +++
 authors = ["Tatiana Duarte"]
-categories = ["Respirar é vida e equilíbrio"]
+categories = ["Meditação"]
 date = "2016-03-30T00:00:01-03:00"
 publishdate = "2016-03-31T00:03:01-03:00"
-title = "Foque na sua respiração. É a frase mais usada na meditação!"
-description = "Mas como respirar melhor?"
-image = "img/2016/02/mulher2_parque_yoga.jpg"
+title = "Saiba como arrumar um ambiente para meditar"
+description = "Calmo, limpo e silencioso"
+image = "img/2016/03/melhor-lugar-para-meditar.jpg"
 HeaderBackground = "blue"
 
 +++
 
 
-Nossa mente está quase sempre agitada devido a conta da correria do dia a dia: agitação, trânsito, trabalho, pessoas.
+Nossa mente está quase sempre agitada por conta da correria do dia a dia: agitação, trânsito, trabalho, pessoas.
 
 Nada melhor, depois de um dia cheio de aglomerações chegar em nosso lar doce lar, e sentir a suavidade e calmaria do ambiente, o silêncio, a tranquilidade, o espaço limpo, o corpo desacelerando...
 
@@ -19,7 +19,9 @@ E nos vem na cabeça: o que faço? ligo a TV, tomo banho, como algo? Está tudo 
 
 O melhor é tomar um banho e já ir refletindo sobre o dia... e então: vou tentar sentar e meditar, mas na onde, qual lugar escolho, como começo!? No chão, na minha cama, no sofá, na sacada, no quintal.
 
-Será que é possível criar um lugar aconchegante e mais tranquilo para praticar a meditação?!
+# Será que é possível criar um lugar aconchegante e mais tranquilo para praticar a meditação?!
+
+![Espaço para Meditar](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/03/espaco-para-meditar.jpg)
 
 A resposta é: Sim!!!
 
@@ -34,6 +36,7 @@ Existe alguns aplicativos como o Deep Relax (pode ser baixados em celulares, tab
 
 
 E agora vamos tentar na prática!?
+
 
 Tente fazer isso pelo menos em dias alternados e verá a diferença que você mesmo terá na sua vida pessoal e profissional!!!
 

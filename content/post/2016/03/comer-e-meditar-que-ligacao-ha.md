@@ -60,7 +60,9 @@ Saiba mais sobre esta combinação no post: [Sofre De Prisão De Ventre? Descubr
 
 São inúmeras as receitas de bolos integrais com frutas e diversas fibras. Esta é uma boa opção para fazer em casa ou comprar em casas de bolo, e ter ao alcance para seus lanches.
 
-Evite comprar bolos industrializados, para que ele seja mantido na prateleira e tenha uma validade extendida, são adicionados diversos conservadores que não farão bem à sua saúde. Saiba mais sobre alimentos ultraprocessados neste post http://blog.autoconexao.org.br/post/2015/10/alimentos-naturais-vs-industrializados-parte-2/
+Evite comprar bolos industrializados, para que ele seja mantido na prateleira e tenha uma validade extendida, são adicionados diversos conservadores que não farão bem à sua saúde.
+
+[Saiba mais sobre alimentos ultraprocessados.](http://blog.autoconexao.org.br/post/2015/10/alimentos-naturais-vs-industrializados-parte-2/)
 
 Receita:
 
