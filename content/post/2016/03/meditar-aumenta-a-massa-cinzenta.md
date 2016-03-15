@@ -1,11 +1,11 @@
 +++
 authors = ["Tiago Mulato"]
 categories = ["Meditação"]
-date = "2016-02-19T00:00:01-03:00"
-publishdate = "2016-02-19T00:03:01-03:00"
-title = "Por que meditar?"
-description = "Técnica milenar ajuda e respiração em alguns minutos!"
-image = "img/2016/02/do-in.jpg"
+date = "2016-03-31T00:00:01-03:00"
+publishdate = "2016-03-31T00:03:01-03:00"
+title = "Cientista americana comprova que meditar aumenta a massa cinzenta"
+description = "Chegue aos 50 com cérebro de 25 anos"
+image = "img/2016/03/cerebro-humano.jpg"
 
 HeaderBackground = "blue"
 
