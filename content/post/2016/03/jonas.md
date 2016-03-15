@@ -30,7 +30,7 @@ Nem sempre simples é sinônimo de fácil. No caso da meditação, pode haver um
 1.	Não consigo ficar de pernas cruzadas, a postura me incomoda.
 2.	Minha mente não para. Sempre que tento meditar ela parece ficar mais agitada. Não consigo parar meus pensamentos!
 3.	Não tenho tempo, minha vida é muito corrida.
-4.	Não sei por onde começar
+4.	Não sei por onde começar.
 5.	Já tentei algumas vezes e não vi resultado.
 
 Para cada um desses empecilhos, temos uma solução ;-)
