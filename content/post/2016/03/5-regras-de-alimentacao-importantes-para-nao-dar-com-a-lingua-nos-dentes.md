@@ -7,7 +7,7 @@ title = "Para meditar temos que cuidar da nossa alimentação"
 description = "Veja 5 regras importantes para não dar com a língua nos dentes"
 image = "img/2016/03/meditar-em-grupo.jpg"
 
-HeaderBackground = "grey"
+HeaderBackground = "gray"
 
 +++
 
