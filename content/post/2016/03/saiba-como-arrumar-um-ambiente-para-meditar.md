@@ -35,7 +35,7 @@ Aqui no Espaço Autoconexão falamos que, para meditar, não precisamos de nada 
 Existe alguns aplicativos como o Deep Relax (pode ser baixados em celulares, tablets, etc) onde você consegue mesclar alguns tipos de sons como água e passarinho, som de caverna, cachoeira, praia. Eles ajudam a acalmar a mente, tranquilizar o ambiente e ao se envolver com o som, você adquire mais concentração e começa o movimento interno através da meditação.
 
 
-E agora vamos tentar na prática!?
+# E agora vamos tentar na prática!?
 
 
 Tente fazer isso pelo menos em dias alternados e verá a diferença que você mesmo terá na sua vida pessoal e profissional!!!

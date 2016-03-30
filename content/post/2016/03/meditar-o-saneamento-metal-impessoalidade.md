@@ -12,11 +12,12 @@ tags = ["autoconhecimento", "heulosofia"]
 Nesta série sobre meditação, estamos apresentando o Saneamento Mental, um método que silencia a mente pela educação dos nossos pensamentos.
 
 O Saneamento Mental utiliza-se de 5 fases:
-- Varredura
-- Organização Focada
-- Impessoalidade
-- Neutralidade
-- Vacuidade
+
+- [Varredura](http://blog.autoconexao.org.br/post/2016/03/meditar-o-saneamento-mental-varredura/)
+- [Organização Focada](http://blog.autoconexao.org.br/post/2016/03/meditar-o-saneamento-metal-organizacao-focada/)
+- [Impessoalidade](http://blog.autoconexao.org.br/post/2016/03/meditar-o-saneamento-metal-impessoalidade/)
+- [Neutralidade](http://blog.autoconexao.org.br/post/2016/03/meditar-o-saneamento-mental-neutralidade/)
+- [Vacuidade](http://blog.autoconexao.org.br/post/2016/03/meditar-o-saneamento-mental-vacuidade/)
 
 Hoje, vamos falar sobre a Impessoalidade: Somente conseguiremos alinhar os nossos pensamentos se usarmos de MUITA impessoalidade!
 

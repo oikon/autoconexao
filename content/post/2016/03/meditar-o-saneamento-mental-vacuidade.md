@@ -57,6 +57,7 @@ Nossos pensamentos estão todos relacionados. Se deixarmos, essa corrente não t
 ![Varredura](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/03/varredura-identificar.png)
 
 O primeiro passo é identificar o que nos incomoda:
+
 - Bagunça nos armários
 - Falta de tempo
 - Nota baixa dos filhos
