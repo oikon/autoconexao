@@ -2,7 +2,7 @@
 authors = ["Tatiana Duarte"]
 categories = ["Meditação"]
 date = "2016-03-30T00:00:01-03:00"
-publishdate = "2016-03-31T00:03:01-03:00"
+publishdate = "2016-03-30T00:03:01-03:00"
 title = "Saiba como arrumar um ambiente para meditar"
 description = "Calmo, limpo e silencioso"
 image = "img/2016/03/melhor-lugar-para-meditar.jpg"

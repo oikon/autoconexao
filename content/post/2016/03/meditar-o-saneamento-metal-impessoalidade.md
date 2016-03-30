@@ -3,8 +3,8 @@ authors = ["Instituto Oikon"]
 categories = ["Refletindo sobre o autoconhecimento"]
 date = "2016-03-22T00:00:01-03:00"
 publishdate = "2016-03-22T00:00:01-03:00"
-title = "Todos podem meditar. Aprenda um método que vai Silenciar sua mente pela educação direta dos seus pensamentos"
-description = "Identificar, Organizar, Transformar e Silenciar!"
+title = "Meditar é Silenciar a mente. Aprenda com o Saneamento Mental!"
+description = "Fase #3 - Impessoalidade"
 image = "img/post-bg.jpg"
 tags = ["autoconhecimento", "heulosofia"]
 +++
