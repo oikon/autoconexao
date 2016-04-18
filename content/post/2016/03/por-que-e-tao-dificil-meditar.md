@@ -63,15 +63,15 @@ Mas, quando tentamos quebrar esse padrão, nos transformar, renovar tudo o que e
 
 ![Fases do Saneamento Mental](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/03/meditacao-para-a-luz.jpg)
 
-**Negação:** É o início do processo de saneamento. Nesta fase, sempre encontramos desculpas para não praticá-lo. Acreditamos que não precisamos de praticar a meditação. Vem a preguiça e dizemos: não preciso disso,estou bem, depois eu faço, não tenho tempo pra isso, isso é para outro lá, não pra mim, que estou bem. Na verdade, eu não quero enfrentar minha mente.
+**Negação:** É o início do processo de saneamento. Nesta fase, sempre encontramos desculpas para não praticá-lo. Acreditamos que não precisamos praticar a meditação. Vem a preguiça e dizemos: não preciso disso,estou bem, depois eu faço, não tenho tempo pra isso, isso é para outro lá, não pra mim, que estou bem. Na verdade, eu não quero enfrentar minha mente.
 
-**Turbulência:** É a fase do choque entre o que eu estou fazendo e o que tem que ser feito. É a fase do conflito dos movimentos e que não conseguimos domínio sobre eles (arrogância, inveja, ciúmes, etc). Para não haver turbulência, é preciso começar, pelas pequenas coisas. É preciso ter força, persistência, para começar o movimento.Para não haver turbulência, é preciso fazer o que tem que ser feito, em casa, no trabalho, em qualquer lugar, a todo momento
+**Turbulência:** É a fase do choque entre o que eu estou fazendo e o que tem que ser feito. É a fase do conflito dos movimentos e que não conseguimos domínio sobre eles (arrogância, raiva, medo, inveja, ciúmes, etc). Para começarmos a administrar a turbulência, é preciso querer e a dica é começar pelas pequenas coisas. É preciso ter força, persistência, para começar o movimento. Para eliminarmos a turbulência, é preciso fazer o que tem que ser feito, em casa, no trabalho, em qualquer lugar, a todo momento
 
 **Dispersão:** É a fase em que na mente ocorre a falta de foco. É a fase em que os sentidos estão dispersos. As inquietações mentais se confundem. Os pensamentos, ideias se dispersam, e vêm outros pensamentos e ideias ocupando o lugar desses, gerando confusão, desconforto, anulação ou fuga.
 
 **Controle:** É a fase em que começamos a nos reconhecer no movimento e fazer algo para isso.Fase da reflexão, quando começamos a colocar as coisas no lugar, o movimento para o controle.
 
-**Silêncio:** É a fase do verdadeiro movimento interior, em que nossa mente entra em harmonia, sob nosso controle e domínio absoluto. Para entrar nessa fase vai depender da nossa maturidade.
+**Silêncio:** É a fase do verdadeiro movimento interior, em que nossa mente entra em harmonia, sob nosso controle e domínio absoluto. Para entrar nessa fase vai depender do nosso trabalho, disciplina e maturidade.
 
 
 
