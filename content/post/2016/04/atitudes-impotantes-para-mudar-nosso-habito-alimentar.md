@@ -11,7 +11,7 @@ HeaderBackground = "gray"
 
 +++
 
-No post anterior ensinamos os 2 primeiros passos para construir uma alimentação saudável, relembre: [Observando nossas compras podemos mudar nossa alimentação](http://blog.autoconexao.org.br/post/2016/04/atitudes-impotantes-para-mudar-nosso-habito-alimentar/) .
+No post anterior ensinamos os 2 primeiros passos para construir uma alimentação saudável, relembre: [Observando nossas compras podemos mudar nossa alimentação](http://blog.autoconexao.org.br/post/2016/04/observando-nossas-compras-podemos-mudar-nossa-alimentacao/).
 
 Aqui no Autoconexão trabalhamos 5 regras para todos os movimentos da vida: no trabalho, família, relacionamentos... E porque não na alimentação?
 
