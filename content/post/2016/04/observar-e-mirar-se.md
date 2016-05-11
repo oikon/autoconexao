@@ -3,13 +3,13 @@ authors = ["Instituto Oikon"]
 categories = ["Refletindo sobre o autoconhecimento"]
 date = "2016-04-12T00:00:01-03:00"
 publishdate = "2016-04-12T00:00:01-03:00"
-title = "Observando de descobrindo a si mesmo"
+title = "Observando e descobrindo a si mesmo"
 description = "Observar e Mirar-se, o primeiro passo para se autoconhecer!"
 image = "img/post-bg.jpg"
 tags = ["autoconhecimento", "heulosofia"]
 +++
 
-Já falamos bastante por aqui sobre o Observar, que o observar está ligado à sobrevivencia, o famoso:
+Já falamos bastante por aqui sobre o Observar, que o observar está ligado à sobrevivência, o famoso:
 
 # Bobiou, dançou!
 ![Viado observando](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/04/observar-urso.png)
@@ -42,11 +42,11 @@ Como tudo é construído vamos avançando e podemos gravar na íntegra todos os 
 - É fazer um zoom nos pontos mapeados pela [varredura*](http://blog.autoconexao.org.br/post/2016/03/meditar-o-saneamento-mental-varredura/) e corrigi-los de forma contínua e disciplinada.
 
 
-# No mirar-se, o ogos (nossa essencia) vê sem desculpas o que fez e busca os motivos do porque fez, analisa as consequências de suas ações ainda tomadas pela impulsividade e ou omissão.
+# No mirar-se, o ogos (nossa essência) vê sem desculpas o que fez e busca os motivos do porque fez, analisa as consequências de suas ações ainda tomadas pela impulsividade e ou omissão.
 
 ![Meditando](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/04/minha-sombra.png)
 
-O movimento interno de infra-olhar-se sem culpa, mas com o intuito de estudar a si mesmo e traçar um plano para educar-se favorece o saneamento de nossa mente e a absorção em nossa consciência de sentimentos altamente refinados e sutis, trazendo a clareza mental e o discernimento que nos servirão para toda a eternidade.  
+O movimento interno de infra-olhar-se sem culpa, mas com o intuito de estudar a si mesmo e traçar um plano para educar-se, favorece o saneamento de nossa mente e a absorção em nossa consciência de sentimentos altamente refinados e sutis, trazendo a clareza mental e o discernimento que nos servirão para toda a eternidade.  
 
 
 # Identificando os pensamentos, refletimos e buscamos suas raízes. Não existe repressão nesse movimento.

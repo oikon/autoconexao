@@ -28,7 +28,7 @@ O pensamento deveria sempre ser um instrumento para a reflexão, pois na reflex�
 ![Mecanismo Mental](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/04/mente.png)
 
 
-E o que são os  condicionamentos? São os comportamentos repetitivos, sem reflexão, fruto da nossa não auto-observação que nos faz viver sem uma avaliação interna durante anos.
+E o que são os condicionamentos? São os comportamentos repetitivos, sem reflexão, fruto da nossa falta de observação que nos faz viver sem uma avaliação interna durante anos.
 
 # Sem a reflexão acabamos prisioneiros do “efeito dominó”  em nossa mente. Exemplo ciúmes.
 ![Garfild com Ciúmes](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/04/garfild-ciumes.png)
@@ -46,7 +46,7 @@ Importante fazermos aqui um link do refletir com o movimento de analisar os sonh
 
 Através da análise de nossos sonhos podemos identificar o conteúdo de nossa mente, nossos condicionamentos, ilusões, dificuldades e também nossas habilidades, que em vigília não temos maturidade (coragem) de assumir. Com frequência não temos nem mesmo a consciência de que aquele sentimento ou emoção faz parte de nosso universo interno e que foi captado muitas vezes pelos 5 sentidos.
 
-A  analise  é pessoal, baseada em um sistema de códigos individual, formado pelas experiências de vida de cada um, nosso universo de conflitos e soluções. Aí cabe a você analisar seus medos, desejos, decepções, e tentar adaptá-los ao que sonhou na noite passada.
+A analise é pessoal, baseado nas experiências de vida de cada um, formado pelas experiências de vida de cada um, nosso universo de conflitos e soluções. Aí cabe a você analisar seus medos, desejos, decepções, e tentar adaptá-los ao que sonhou na noite passada.
 
 # O pensador grego Aristóteles dizia que, para entender os sonhos, é preciso compreender metáforas, pois a interpretação depende do seu momento e dos significados que dá para as coisas.
 ![Aristóteles](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/04/aristoteles.jpg)
