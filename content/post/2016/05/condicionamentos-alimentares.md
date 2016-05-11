@@ -17,7 +17,7 @@ Já aprendemos aqui a praticar as 5 regras: [OBSERVAR, REFLETIR,](http://blog.au
 
 Existem vários tipos de condicionamentos, como por exemplo, usar a mesma cor de roupa todos os dias, fazer o mesmo caminho para a casa, sentar na mesma cadeira da faculdade durante os 4 ou 5 anos, assistir o mesmo jornal diariamente, são ações que fazemos no automático, passamos tanto tempo repetindo algumas ações que as vezes elas se tornam automáticas. Quem nunca chegou em um lugar e nem lembrava o caminho que fez, isso é tão automático que se tornou um condicionamento.
 
-No Brasil temos a cultura do arroz e feijão, e essa combinação é nutricionalmente perfeita, mas porque quando passamos alguns dias viajando em outro país ficamos tão irritados por não comer o arroz e feijão? Os cariocas não vivem sem o feijão preto, os nordestinos adoram o fradinho, os paulistas amam o carioca e assim por diante, fomos treinados durante anos a ter um determinado habito.
+No Brasil temos a cultura do arroz e feijão, e essa combinação é nutricionalmente perfeita, mas porque quando passamos alguns dias viajando em outro país ficamos tão irritados por não comer o arroz e feijão? Os cariocas não vivem sem o feijão preto, os nordestinos adoram o fradinho, os paulistas amam o carioca e assim por diante, fomos treinados durante anos a ter um determinado hábito.
 
 ![Feijões](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/05/feijoes.jpg)
 
