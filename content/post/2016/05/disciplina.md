@@ -16,7 +16,7 @@ Mês passado começei a falar sobre 3 pontos fundamentais para que a nossa vida 
 
 Hoje, vamos falar do segundo ponto:
 
-#Disciplina
+# Disciplina
 
 A disciplina é uma qualidade indispensável para o agir, para aqueles que querem o sucesso na vida e desejam expandir seu potencial criativo.
 
