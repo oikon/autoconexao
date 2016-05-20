@@ -5,7 +5,7 @@ date = "2016-05-20T00:00:01-03:00"
 publishdate = "2016-05-20T00:00:01-03:00"
 title = "Como ensinar seu filho ou aluno a observar"
 description = "4 dicas incríveis para você transformar tudo numa brincadeira!"
-image = "img/2016/05/crianca-observando.JPG"
+image = "img/2016/05/crianca-observando.jpg"
 tags = ["yoga", "meditação"]
 HeaderBackground = "blue"
 
