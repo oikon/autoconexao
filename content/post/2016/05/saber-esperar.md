@@ -16,7 +16,7 @@ Nosso chefe quer respostas agora, os relatórios são para ontem. As máquinas q
 
 Mas sabemos que não é assim que funciona não é mesmo? A máquina humana não evoluiu como as máquinas construidas. Sendo assim, mesmo com ferramentas e sistemas cada vez mais tecnológicos, nossa capacidade produtiva continua limitada. Não temos como colocar mais espaço no nosso HD interno ou trocar a memória RAM de 2 para 8G.
 
-E é ai que acabam surgindo muitas crizes de anciedade. Quando não refletimos no nosso potencial, quando não planejamos, quando não avaliamos o meio e espaço que nos cerca.
+E é ai que acabam surgindo muitas crises de ansiedade. Quando não refletimos sobre o nosso potencial, quando não planejamos, quando não avaliamos o meio e espaço que nos cerca.
 
 Mas e como sair de tudo isso?
 
@@ -35,7 +35,7 @@ Ao mesmo tempo que observamos para fora, podemos observar a nós mesmos.
 Com a prática e o tempo vamos observando melhor os nossos movimentos, as nossas reações diante de fatos externos do dia-a-dia ou fatos e incomodações internas que carregamos conosco.
 
 
-Leia o post abaixo para entender melhor o observar e saber como se reinventar para um ser mais produtivo.
+Leia o post abaixo para entender melhor o Observar e saber como se reinventar para tornar-se mais produtivo.
 
 [Observando e descobrindo a si mesmo - Observar e Mirar-se, o primeiro passo para o autoconhecimento](http://blog.autoconexao.org.br/post/2016/04/observar-e-mirar-se/)
 
@@ -53,7 +53,7 @@ Para assim podermos tomar atitude interna do que queremos para nós mesmos. Ante
 
 ![Olhando por outro ângulo](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/05/olhando-por-outro-angulo.jpg)
 
-Até agora foi um movimento interno e é no agir que colocamos para fora todo o nosso potencial. Mas, muitas vezes isso não acontece, ficamos engasgados, sabemos o que queremos mas não vai pra frente. Um bom planejamento não é suficiente para fazer as coisas acontecerem, entenda em qual etapa do Agir você está estagnado, leia o post [Como tirar se planejamento do papel - O guia absolutamente completo](http://blog.autoconexao.org.br/post/2016/05/como-tirar-o-planejamento-do-papel/)
+Até agora foi um movimento interno e é no agir que colocamos para fora todo o nosso potencial. Mas, muitas vezes isso não acontece, ficamos engasgados, sabemos o que queremos mas não vai pra frente. Um bom planejamento não é suficiente para fazer as coisas acontecerem, entenda em qual etapa do Agir você está estagnado, leia o post [Como tirar seu planejamento do papel - O guia absolutamente completo](http://blog.autoconexao.org.br/post/2016/05/como-tirar-o-planejamento-do-papel/)
 
 
 # E aí você se pergunta: Bom, agora tudo vai dar certo? É só eu fazer tudo isso que minha ansiedade vai acabar, não é mesmo?
@@ -76,7 +76,7 @@ Agora você poderia pensar: Ah, então não adianta nada disso, porque o meu che
 ## Contudo, você estará mais apto à controlar a pressão externa, porque internamente você está seguro, você sabe que tentou e fez o seu melhor.
 
 
-Você começará a entender que tudo é Ritmo e Precisão. E com o tempo vai desenvolver força interna para ditar o ritimo das coisas conforme o seu desempenho, nunca deixando de lado as necessidades da realidade que vivemos.
+Você começará a entender que tudo é Ritmo e Precisão. E com o tempo vai desenvolver força interna para ditar o ritmo das coisas conforme o seu desempenho, nunca deixando de lado as necessidades da realidade que vivemos.
 
 Todo esse processo trará ordem, produtividade, autoconfiança, segurança, credibilidade.
 
