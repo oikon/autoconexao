@@ -16,7 +16,7 @@ Nosso chefe quer respostas agora, os relatórios são para ontem. As máquinas q
 
 Mas sabemos que não é assim que funciona não é mesmo? A máquina humana não evoluiu como as máquinas construidas. Sendo assim, mesmo com ferramentas e sistemas cada vez mais tecnológicos, nossa capacidade produtiva continua limitada. Não temos como colocar mais espaço no nosso HD interno ou trocar a memória RAM de 2 para 8G.
 
-E é ai que acabam surgindo muitas crises de ansiedade. Quando não refletimos sobre o nosso potencial, quando não planejamos, quando não avaliamos o meio e espaço que nos cerca.
+# E é ai que acabam surgindo muitas crises de ansiedade. Quando não refletimos sobre o nosso potencial, quando não planejamos, quando não avaliamos o meio e espaço que nos cerca.
 
 Mas e como sair de tudo isso?
 
@@ -47,7 +47,11 @@ Leia o post abaixo para entender melhor o Observar e saber como se reinventar pa
 
 No post [O que acontece quando não refletimos - Será o caos?](http://blog.autoconexao.org.br/post/2016/04/o-que-acontece-quando-nao-refletimos/) obordamos as fases de reflexão que todo mundo passa. Lendo, você poderá identificar em qual momento você está e entender o que está por vir! Fique calmo, não é bruxaria, tudo é muita reflexão e lógica!! ;)
 
-Para assim podermos tomar atitude interna do que queremos para nós mesmos. Antes de sair fazendo, temos que decidir internamente.
+# Para assim podermos tomar atitude interna do que queremos para nós mesmos.
+
+![Tomar Atitude](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/05/tomar-atitude.jpg)
+
+Antes de sair fazendo, temos que decidir internamente. No Post [Exercitando nosso poder de decisão](http://blog.autoconexao.org.br/post/2016/05/exercitando-nosso-poder-de-decisao/) entendemos o que faz uma pessoa se destacar.
 
 # Ufa, chegou o Agir!
 
@@ -98,3 +102,7 @@ Assista nossas Reflexões sobre o Autoconhecimento ao vivo!
 Acompanhe a aula pelo [Periscope][a41c6f3b]
 
   [a41c6f3b]: https://www.periscope.tv/ "Periscope"
+
+
+---
+<small>Foto Estátua [Martin Fisch](https://www.flickr.com/photos/marfis75/)</small>
