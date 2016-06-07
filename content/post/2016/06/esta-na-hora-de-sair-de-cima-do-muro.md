@@ -29,8 +29,6 @@ Algumas decisões são mais fáceis, outras mais difíceis. Há até mesmo, pess
 ![Como tomar uma decisão?](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/06/como-tomar-uma-decisao.jpg)
 
 
-
-
 Pois bem, você que nos acompanha em nosso blog Autoconexão, já deve ter tido ciência da importância da prática do autoconhecimento em nossa vida. Já dissemos, e é sempre bom repetir que através da prática do autoconhecimento, conhecemos nossas limitações e condicionamentos. Saímos da zona de conforto (preguiça), aprendemos o controle sobre nossas ações e emoções. Aprendemos a ser menos ansiosos, menos inseguros e a agir com assertividade.
 
 Para a prática do autoconhecimento, já aprendemos que precisamos usar as ferramentas que são as 5 regras: observar, refletir, tomar atitude, agir e saber esperar.
