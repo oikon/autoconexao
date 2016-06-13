@@ -31,19 +31,19 @@ Para 1 xícara de arroz, adicione 3 xícaras de água! Após evaporada toda a á
 Não refogue o arroz integral!
 O arroz ao entrar em contato com o óleo, logo no início, impermeabiliza o grão, fazendo com que ele demore mais tempo para cozinhar!! Só adicione o óleo / alho / cebola... após o término do cozimento! O sal pode ser adicionado desde o início do cozimento.
 
-#Dica 3:
+# Dica 3:
 
 ![Fundo de arroz](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/06/fundo+de+legumes.jpg)
 
 Faça um fundo ou caldo para seu arroz. Ao invés de adicionar apenas água no seu arroz faça o seguinte: em uma panela quente, sem óleo, coloque ½ cebola inteira, ½ cenoura, 100g de frango ou carcaça de frango, salsão ou alho poro á gosto (para quem não for muito fã de carnes, é só adicionar os demais ingredientes), deixe esses alimentos pegarem um pouquinho no fundo da panela. Em seguida adicione água e deixe ferver por 30 minutos. Coe e reserve essa água para fazer o cozimento do arroz. Evite utilizar caldos prontos, eles são extremamente gordurosos, e possuem muito sódio!
 
-#Dica 4:
+# Dica 4:
 
 ![Arroz Incrementado](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/06/arroz+integral+incrementado.jpg)
 
 Faça um arroz incrementado. Refogue abobrinha ralada ou cenoura ou vagem, ervilha…. Após cozido o arroz, adicione esses incrementos já refogados para dar sabor e deixar seu arroz mais poderoso! Você pode também adicionar durante o cozimento inicial, incrementos como aveia, lentilha, quinoa...
 
-#Dica 5:
+# Dica 5:
 Na falta de tempo para todo esse processo, você tem 2 opções:
 
 - Coloque o seu arroz (a mesma proporção de água/arroz) em uma panela elétrica. Você pode utilizar o fundo da #dica 3 (pode preparar o fundo com um dia de antecedência e guardar refrigerado), e o resultado final será o mesmo, a vantagem é que você não vai ficar na beira do fogão monitorando todo o processo, você pode ir tomar banho, realizar um trabalho no computador enquanto seu arroz cozinha.

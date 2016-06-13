@@ -14,9 +14,9 @@ HeaderBackground = "gray"
 
 Nos últimos posts venho falando de ações que temos que ter para levarmos uma vida mais equilibrada e produtiva. Alguns pilares mestres que precisamos ter são: credibilidade, disciplina e pontualidade.  
 
-No post [Como anda sua credibilidade?]() você pode pegar dicas de como construir ou ainda consolidá-la, vale a pena ler e entender quais pontos irão te ajudar nesse processo.
+No post [Como anda sua credibilidade?](http://blog.autoconexao.org.br/post/2016/04/como-anda-sua-credibilidade/) você pode pegar dicas de como construir ou ainda consolidá-la, vale a pena ler e entender quais pontos irão te ajudar nesse processo.
 
-Pra você acha que disciplina é coisa militante e está muito longe de alcançar, não pode deixar de ler o Post: [Disciplina - O que manda não é o rigor, mas sim equilíbrio.] ()
+Pra você acha que disciplina é coisa militante e está muito longe de alcançar, não pode deixar de ler o Post: [Disciplina - O que manda não é o rigor, mas sim equilíbrio.](http://blog.autoconexao.org.br/post/2016/05/disciplina/)
 
 Para finalizar a sequencia, vamos falar hoje de Pontualidade.
 
