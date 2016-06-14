@@ -16,7 +16,7 @@ Nos últimos posts venho falando de ações que temos que ter para levarmos uma 
 
 No post [Como anda sua credibilidade?](http://blog.autoconexao.org.br/post/2016/04/como-anda-sua-credibilidade/) você pode pegar dicas de como construir ou ainda consolidá-la, vale a pena ler e entender quais pontos irão te ajudar nesse processo.
 
-Pra você acha que disciplina é coisa militante e está muito longe de alcançar, não pode deixar de ler o Post: [Disciplina - O que manda não é o rigor, mas sim equilíbrio.](http://blog.autoconexao.org.br/post/2016/05/disciplina/)
+Pra você que acha que disciplina é coisa militante e está muito longe de alcançar, não pode deixar de ler o Post: [Disciplina - O que manda não é o rigor, mas sim equilíbrio.](http://blog.autoconexao.org.br/post/2016/05/disciplina/)
 
 Para finalizar a sequencia, vamos falar hoje de Pontualidade.
 
@@ -32,12 +32,20 @@ Pontualidade é estar na hora certa, no local acertado, conforme combinado.
 
 # 6 Pontos para treinar a pontualidade
 
-- #1 : Preste atenção no horário.
-- #2 : Jamais chegue atrasado, voluntariamente, a um compromisso
-- #3 : Se algo justo acontecer, explique-se, mas não se justifique
-- #4 : Atraso, sem um motivo justo, sufoca nosso potencial produtivo
-- #5 : Não seja hipócrita e carentão, chegando atrasado para chamar a atenção
-- #6 : A irresponsabilidade e o descompromisso comprometem nossa capacidade de realizar
+- #1 : Preste atenção no horário e coloque seu celular para despertar!
+Uma boa dica com as tecnologias agora é manter sua agenda em um aplicativo que, conforme os compromissos forem aparecendo ele desperta automaticamente. Um exemplo é a própria agenda do Google.
+
+- #2 : Organize seu dia ao levantar, fazendo uma lista de atividades
+Se você não é da era da modernidade não tem desculpa, a agenda de papel ainda funciona! A dica é manter uma única agenda para todos compromissos: familiar, profissional, pessoal, comunitário e . Afinal, o seu tempo é um só e assim você consegue visualizar melhor todos os seus compromissos.
+
+- #3 : Acorde com antecedência para meditar e começar o dia mais sereno
+
+- #4 : Aconteceu alguma imprevisibilidade inspire e expire algumas vezes e reprograme-se
+
+- #5 : Não assuma compromissos demais, o tempo não é elástico
+
+- #6 : Comece a ter disciplina nas pequenas coisas
+
 
 Não vamos ter pressa. Vamos praticar e chegaremos lá. Nossos limites serão superados naturalmente. É só fazer bem feito o programado e planejado que o resto será fácil. Vamos vencer nossos limites!
 
