@@ -22,7 +22,7 @@ Para finalizar a sequencia, vamos falar hoje de Pontualidade.
 
 # Ser pontual é um exercício de disciplina e organização.
 
-![prontualidade](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/06/pontualidade-2.jpg)
+![pontualidade](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/06/pontualidade-2.jpg)
 
 A pontualidade é outro ícone do agir. Para agir você precisa estar disposto a superar-se. Pode não parecer, mas a pontualidade “treina” nossa força de vontade e expande nossa capacidade produtiva.
 
@@ -33,9 +33,11 @@ Pontualidade é estar na hora certa, no local acertado, conforme combinado.
 # 6 Pontos para treinar a pontualidade
 
 - #1 : Preste atenção no horário e coloque seu celular para despertar!
+
 Uma boa dica com as tecnologias agora é manter sua agenda em um aplicativo que, conforme os compromissos forem aparecendo ele desperta automaticamente. Um exemplo é a própria agenda do Google.
 
-- #2 : Organize seu dia ao levantar, fazendo uma lista de atividades
+- #2 : Organize seu dia ao levantar, fazendo uma lista de atividades.
+
 Se você não é da era da modernidade não tem desculpa, a agenda de papel ainda funciona! A dica é manter uma única agenda para todos compromissos: familiar, profissional, pessoal, comunitário e . Afinal, o seu tempo é um só e assim você consegue visualizar melhor todos os seus compromissos.
 
 - #3 : Acorde com antecedência para meditar e começar o dia mais sereno

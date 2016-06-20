@@ -35,7 +35,13 @@ O arroz ao entrar em contato com o óleo, logo no início, impermeabiliza o grã
 
 ![Fundo de arroz](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/06/fundo+de+legumes.jpg)
 
-Faça um fundo ou caldo para seu arroz. Ao invés de adicionar apenas água no seu arroz faça o seguinte: em uma panela quente, sem óleo, coloque ½ cebola inteira, ½ cenoura, 100g de frango ou carcaça de frango, salsão ou alho poro á gosto (para quem não for muito fã de carnes, é só adicionar os demais ingredientes), deixe esses alimentos pegarem um pouquinho no fundo da panela. Em seguida adicione água e deixe ferver por 30 minutos. Coe e reserve essa água para fazer o cozimento do arroz. Evite utilizar caldos prontos, eles são extremamente gordurosos, e possuem muito sódio!
+Faça um fundo ou caldo para seu arroz. Ao invés de adicionar apenas água no seu arroz faça o seguinte, em uma panela quente, sem óleo, coloque:
+- ½ cebola inteira,
+- ½ cenoura,
+- 100g de frango ou carcaça de frango,
+- salsão ou alho poro á gosto (para quem não for muito fã de carnes,
+
+É só adicionar os demais ingredientes), deixe esses alimentos pegarem um pouquinho no fundo da panela. Em seguida adicione água e deixe ferver por 30 minutos. Coe e reserve essa água para fazer o cozimento do arroz. Evite utilizar caldos prontos, eles são extremamente gordurosos, e possuem muito sódio!
 
 # Dica 4:
 
