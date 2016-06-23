@@ -43,7 +43,7 @@ Vai aí então os passos para se livrar de vez dos tão incômodos tiques:
 
 ![Comece o dia Meditando](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/06/meditacao.jpg)
 
-Sente-se no chão em uma postura confortável, feche os olhos, respire fundo por 5 vezes, faça um planejamento mental do seu dia, procure organizar suas pendências para saná-las, identifique situações que possam lhe causar stress ou desconforto, antecipe sua reação para não agir com assertividade.
+Sente-se no chão em uma postura confortável, feche os olhos, respire fundo por 5 vezes, faça um planejamento mental do seu dia, procure organizar suas pendências para saná-las, identifique situações que possam lhe causar stress ou desconforto, antecipe sua reação para não agir com impulsividade.
 
 Para saber método completo, faça o curso de meditação on line: [Aprenda a Meditar - Nível Básico](https://www.autoconexao.org.br/s/aprendendo-a-meditar.html)
 
