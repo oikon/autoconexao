@@ -92,7 +92,7 @@ Vamos dar dois exemplos, um bem prático e pontual e o segundo mais amplo.
 
 ![Sem limite](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/07/sem-limite.jpg)
 
-1º - Através da observação e da reflexão concluímos que **alguém que amamos está precisando de um limite**, que teremos que colocar alguns pontos para a pessoa refletir, se não, as consequências poderão ser muito ruins.  
+Através da observação e da reflexão concluímos que **alguém que amamos está precisando de um limite**, que teremos que colocar alguns pontos para a pessoa refletir, se não, as consequências poderão ser muito ruins.  
 
 Tomamos uma decisão interna (tomar atitude) de agir, **então planejamos o que iremos falar**, como, onde e quando; porém, **no momento que a encontramos para ter a conversa, ela acabou de ter uma notícia maravilhosa**, recebeu uma promoção ou coisa assim, **uma situação inesperada alterou o seu humor e a situação**.
 
