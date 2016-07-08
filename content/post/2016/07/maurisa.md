@@ -1,8 +1,8 @@
 +++
 authors = ["Maurisa Felício Castilho"]
 categories = ["Autoconhecimento"]
-date = "2016-06-16T00:00:01-03:00"
-publishdate = "2016-06-16T00:03:01-03:00"
+date = "2016-07-28T00:00:01-03:00"
+publishdate = "2016-07-28T00:03:01-03:00"
 title = "Está na hora de sair de cima do muro e tomar uma decisão"
 description = "Aprenda como!"
 image = "img/2016/06/em-cima-do-muro.jpg"
