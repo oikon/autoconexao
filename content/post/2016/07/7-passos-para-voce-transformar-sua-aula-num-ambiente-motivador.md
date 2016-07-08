@@ -32,6 +32,8 @@ Nas EPVs – Escolas Preparatórias para a Vida da Fundação Eufraten, na qual 
 
 # Dica nº 1 – Yoga e Meditação para Todos
 
+![Yoga e Meditação](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/03/criancas-polarizando.JPG)
+
 Além das crianças e adolescentes praticarem yoga e meditação, em nossas Escolas, uma vez por semana, a equipe de infraestrutura e a  equipe pedagógica também praticam yoga juntos.
 
 Educador, pratique yoga, aprenda a meditar, identificando suas ansiedades e agitações, procure refletir e organizar sua mente.  Ajuda muito quando anotamos em um caderno o que precisamos melhorar em nosso comportamento, escolhendo um ponto de cada vez para começar nosso trabalho com ações práticas que promoverão a mudança.  Não tenha pressa.
@@ -42,18 +44,26 @@ Com a prática da meditação e do yoga, você conquista organização pessoal, 
 
 # Dica nº 2 – Ambiente Acolhedor
 
+![Ambiente Acolhedor](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/07/ambiente-acolhedor.jpg)
+
 Chegue 15 minutos antes de iniciar as atividades, prepare o ambiente para receber a turma, organizando o material que você vai utilizar. Ah! um detalhe importante, o ambiente pode ser simples, mas deve ser limpo e arejado, flores e uma música suave, sempre trazem harmonia para o ambiente.
 
 # Dica nº 3  - Recepção das Crianças e Adolescentes
+
+![Receber bem as crianças](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/01/maurisa-e-criancas.jpg)
 
 Receba as crianças e adolescentes com reciprocidade e atenção, deixe que eles acessem o seu clima de harmonia e receptividade. Um Olá! Como vai você? Que bom que você veio! Por quê você faltou ontem? Senti sua falta. Com essas atitudes vamos criamos um vínculo de amizade, respeito e segurança para educar.
 
 # Dica nº 4 – Harmonização para Acalmar
 
+![Roda de Harmonização](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/05/alunos-fazendo-yoga.JPG)
+
 Inicie as atividades com uma roda de Harmonização e relaxamento, alongando cabeça, pescoço, ombros, pernas e pés, braços e mãos, integre os movimentos com uma respiração, calma e tranquila, trazendo o foco das crianças e adolescentes para si mesmos. O objetivo é deixar a mente organizada, abrindo espaço para novos aprendizados e começar as atividades do dia com mais energia e foco, sem dispersão.
-Saiba mais lendo o post http://blog.autoconexao.org.br/post/2015/11/harmonizacao-para-comecar-o-dia/
+Saiba mais lendo o post [Roda de Harmonização](http://blog.autoconexao.org.br/post/2015/11/harmonizacao-para-comecar-o-dia/)
 
 # Dica nº 5 – Inove na sala de aula e traga seus alunos mais perto de você
+
+![Inove sua Aula](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/07/inove-na-sala-de-aula.jpg)
 
 -	Modifique o lay out da sala de aula, que tal sentar em roda?
 -	Envolva a turma na organização, eles se sentirão mais responsáveis;
@@ -71,6 +81,10 @@ Saiba mais lendo o post http://blog.autoconexao.org.br/post/2015/11/harmonizacao
 Cada um é responsável por aquilo que cativas. Em nossas EPVs educadores e educandos fazem as refeições juntos, em seguida cada um é responsável por deixar o espaço que usou limpo, lavar o seu prato, copo e talher, na finalização das atividades, todos contribuem para deixar os espaços utilizados nas atividades organizados, aprendendo a cuidar do que usou, com compromisso, disciplina e continuidade.  
 
 # Dica nº 7 – Aprender a Refletir
+
+![Roda de Reflexão](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/07/roda-de-reflexao.jpg)
+
+
 - Encerre sua aula, diariamente com uma roda de reflexão;
 -	Conduza a turma a refletir sobre como foram nas atividades, se gostaram da aula, como se comportaram, as dificuldades que tiveram e quais as sugestões para superá-las;
 -	De vez em quando dê o seu feed back de como está vendo cada um na turma;
