@@ -5,7 +5,7 @@ date = "2016-06-30T00:00:01-03:00"
 publishdate = "2016-06-30T00:03:01-03:00"
 title = "Rins: Fonte da Juventude"
 description = "Entenda o orgão mais importante para o homem"
-image = "img/2016/06/rim.png"
+image = "img/2016/06/rim.jpg"
 
 HeaderBackground = "blue"
 
