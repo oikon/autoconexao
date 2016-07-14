@@ -5,7 +5,7 @@ date = "2016-07-14T00:00:01-03:00"
 publishdate = "2016-07-14T00:03:01-03:00"
 title = "7 passos infalíveis para você transformar a escola em um ambiente motivador"
 description = "a 5 é a mais importante"
-image = "img/2016/06/pontualidade-1.jpg"
+image = "img/2015/09/criancas-em-roda-de-yoga.jpg"
 
 HeaderBackground = "gray"
 
