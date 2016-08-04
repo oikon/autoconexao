@@ -5,7 +5,7 @@ date = "2016-08-04T00:00:01-03:00"
 publishdate = "2016-08-04T00:03:01-03:00"
 title = "8 Grandes motivos para iniciar um programa de exercícios físicos"
 description = ""
-image = "img/2016/03/melhor-lugar-para-meditar.jpg"
+image = "img/2016/08/exercicio-fisico.jpg"
 HeaderBackground = "blue"
 +++
 
