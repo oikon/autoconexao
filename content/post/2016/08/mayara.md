@@ -2,7 +2,7 @@
 authors = ["Mayara Carvalho"]
 categories = ["Autoconhecimento"]
 date = "2016-08-18T00:00:01-03:00"
-publishdate = "2016-07-21T00:03:01-03:00"
+publishdate = "2016-08-21T00:03:01-03:00"
 title = "6 passos para ser um marmiteiro de sucesso!"
 description = ""
 image = "img/2016/07/qual-alimento-comer.jpg"
