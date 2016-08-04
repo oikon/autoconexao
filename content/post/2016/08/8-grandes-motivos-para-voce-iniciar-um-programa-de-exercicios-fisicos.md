@@ -29,7 +29,8 @@ Ainda mais nesse frio. O melhor é se exercitar no frio que além de eliminar a 
 # n#4 - melhora a automotivação
 ![Automotivação](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/08/automotivacao.jpg)
 
-"É a independência dos estímulos externos, trazendo o querer de dentro para fora. É mover-se, interagir-se, comandar-se sem estímulos externos." (A Cosmovisão, Paulo Zabeu).
+>"É a independência dos estímulos externos, trazendo o querer de dentro para fora. É mover-se, interagir-se, comandar-se sem estímulos externos."
+A Cosmovisão, Paulo Zabeu
 
 Sim com exercício podemos trabalhar e melhorar nossa automotivação.
 
@@ -41,7 +42,8 @@ Terás noites mais bem dormidas e relaxantes. Sua mente agradecerá esse momento
 # n#6 - estimula sua autocredibilidade
 ![Autocredibilidade](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/05/chefe-interna.jpg)
 
-"É a nossa força interna a serviço da determinação. - Paulo Zabeu"
+>"É a nossa força interna a serviço da determinação.
+ Paulo Zabeu"
 
 Quando nos exercitamos conhecemos mais nosso corpo, mente e nossos limites, assim construímos dentro de nós a ação transformadora superando nossos condicionamentos através da força de vontade.
 
@@ -58,4 +60,8 @@ Ajuda a baixar níveis de colesterol, triglicérides e pressão arterial, além 
 
 
 
-Ual, quantos motivos bons para você se exercitar!! Não estou falando para você gostar, mas estou te mostrando caminhos e motivos para iniciar a prática de atividades física e se tornar uma pessoa mais saudável, com disposição, vitalidade, e melhorar sua qualidade de vida ficando livre de dores e doenças. Quem ganha com isso: você! Pense nisso, vale a pena tirar umas horas da semana para se cuidar, e ao invés de arrumar desculpas para não fazer exercícios físicos, arrume motivos para realizar esse momento que só trará benefícios pra sua vida!
+# Ual, quantos motivos bons para você se exercitar!!
+
+Não estou falando para você gostar, mas estou te mostrando caminhos e motivos para iniciar a prática de atividades física e se tornar uma pessoa mais saudável, com disposição, vitalidade, e melhorar sua qualidade de vida ficando livre de dores e doenças. Quem ganha com isso: você!
+
+Pense nisso, vale a pena tirar umas horas da semana para se cuidar, e ao invés de arrumar desculpas para não fazer exercícios físicos, arrume motivos para realizar esse momento que só trará benefícios pra sua vida!
