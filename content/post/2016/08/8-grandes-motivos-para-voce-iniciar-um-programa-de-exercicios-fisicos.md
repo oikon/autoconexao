@@ -11,7 +11,7 @@ HeaderBackground = "blue"
 
 
 # n#1 - manter a disciplina
-![Disciplina](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/05/disciplina-conquistada.jpg)
+![Exercício](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/08/exercicio.jpg)
 
 O exercício te ajuda a trabalhar a continuidade, pois não adianta treinar um dia, os resultados virão com trabalho persistente, foco e continuidade.
 
