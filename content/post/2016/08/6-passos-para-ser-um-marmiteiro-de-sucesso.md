@@ -15,7 +15,9 @@ HeaderBackground = "gray"
 Aqui no @autoconexão, sempre apresentamos dicas de alimentação saudável, ensinando técnicas de culinária, relacionando a alimentação e meditação como um caminho para uma vida mais equilibrada e produtiva, porém muita gente não consegue mudar seus hábitos e colocar em pratica uma alimentação saudável, baseados nas 3 desculpas:
 
 1 - Eu não tenho tempo para cozinhar, ou organizar minha alimentação;
+
 2 - Uma alimentação saudável é mais cara, e em tempos de crise precisamos economizar;
+
 3 - Eu não gosto de vegetais, e outros alimentos que uma dieta saudável exige, como arroz integral por exemplo.
 
 No Post de hoje, falaremos da nova moda do momento, que vem incentivando as pessoas a serem mais saudáveis e quebrando um "tabu": OS MARMITEIROS!
@@ -24,10 +26,12 @@ Os Marmiteiros nada mais são do que, pessoas que preparam sua própria comida e
 # 3 Vantagens de ser um marmiteiro:
 
 1 - Você consegue preparar sua em um só dia, congelar e isso já acaba com o problema da falta de tempo para cozinhar;
+
 2 - Preparar sua comida é mais barato do que comer em restaurantes todo dia, em tempos de crise é uma boa opção;
+
 3 - Fazendo boas escolhas na sua marmita, sem dúvida você terá uma vida saudável, já que não corre o risco de comer batata frita todo dia (afinal batata frita não pesa no self-service);
 
-Vamos então aos 6 PASSOS PARA SER UM MARMITEIRO DE SUCESSO:
+Vamos então aos **6 PASSOS PARA SER UM MARMITEIRO DE SUCESSO:**
 
 # 1 - PLANEJE-SE
 
@@ -68,7 +72,7 @@ Opte por alimentos que caibam no seu orçamento, e o principal, busque comprar s
 
 # 5 - CUIDADO COM AS QUANTIDADES
 
-![Marmitas](ttps://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/08/grande-lanc-marmita.jpg)
+![Marmitas](https://s3-sa-east-1.amazonaws.com/blog.autoconexao.org.br/img/2016/08/grande-lanc-marmita.jpg)
 
 
 Dependendo do tipo de recipiente que escolhemos para montar a marmita, o volume é bem maior do que quando colocamos em um prato. *DICA: No começo, coloque a comida em um prato e depois passe para o recipiente, a fim de verificar o volume ideal.*
